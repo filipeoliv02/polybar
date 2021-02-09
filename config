@@ -54,7 +54,7 @@ font-1 = Noto Sans:style=Medium:pixelsize=10;2
 font-2 = MesloLGS Nerd Font:style=Regular:pixelsize=9;3
 
 modules-left = i3 xwindow
-modules-center = spotify
+modules-center = news spotify
 modules-right =  cpu temperature memory-script date
 
 tray-position = right
@@ -270,3 +270,6 @@ margin-top = 5
 margin-bottom = 5
 
 ; vim:ft=dosini
+
+; [module/news]
+include-file = ~/.config/polybar/scripts/news/module.conf
