@@ -28,56 +28,47 @@ secondary = #e60053
 alert = #f5d142
 
 [bar/mybar]
-;monitor = ${env:MONITOR:eDP-1}
+monitor = ${env:MONITOR:HDMI1}
 width = 100%
 height = 19
 ;offset-x = 1%
 ;offset-y = 1%
 radius = 0.0
 fixed-center = true
-
 background = ${colors.background}
 foreground = ${colors.foreground}
-
-
 border-size = 0
-border-color = #0000000
-
-padding-left = 0
+border-color = #000000
+padding-left = 1
 padding-right = 0
-
 module-margin-left = 1
 module-margin-right = 1
-
 font-0 = RobotoMono Nerd Font:style=Medium:pixelsize=10;2
 font-1 = Noto Sans:style=Medium:pixelsize=10;2
 font-2 = MesloLGS Nerd Font:style=Regular:pixelsize=9;3
-
-modules-left = i3 xwindow
+modules-left = xmonad
 modules-center = news spotify
-modules-right =  cpu temperature memory-script date
-
+modules-right =  cpu memory-script date
 tray-position = right
 tray-detached = false
 tray-offset-x = 0
 tray-offset-y = 0
 tray-padding = 6
 tray-background = #550D0B3D
-
-
 ;wm-restack = bspwm
-wm-restack = i3
-
-;override-redirect = true
-
+;wm-restack = i3
+override-redirect = true
 ;scroll-up = bspwm-desknext
 ;scroll-down = bspwm-deskprev
-
 ;scroll-up = i3wm-wsnext
 ;scroll-down = i3wm-wsprev
-
 cursor-click = pointer
 cursor-scroll = ns-resize
+
+[module/xmonad]
+type = custom/script
+exec = xmonad-log
+tail = true
 
 [module/xwindow]
 type = internal/xwindow
@@ -88,9 +79,7 @@ label = %title:0:100:...%
 [module/filesystem]
 type = internal/fs
 interval = 25
-
 mount-0 = /
-
 ; Available tokens:
 ;   %mountpoint%
 ;   %type%
@@ -111,7 +100,6 @@ type = internal/i3
 format = <label-state> <label-mode>
 index-sort = true
 wrapping-scroll = false
-
 ; Only show workspaces on the same output as the bar
 ;pin-workspaces = true
 
@@ -161,12 +149,9 @@ label = %percentage:2%%
 [module/memory]
 type = internal/memory
 interval = 2
-
-
 format-prefix = ""
 format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #CF0000
-
 label = %mb_used%
 
 [module/memory-script]
@@ -181,7 +166,6 @@ format-underline = #5DBBBB
 type = internal/network
 interface = net1
 interval = 3.0
-
 format-connected = <ramp-signal> <label-connected>
 format-connected-underline = #9f78e1
 label-connected = %essid%
@@ -268,8 +252,6 @@ screenchange-reload = true
 [global/wm]
 margin-top = 5
 margin-bottom = 5
-
 ; vim:ft=dosini
-
 ; [module/news]
 include-file = ~/.config/polybar/scripts/news/module.conf
