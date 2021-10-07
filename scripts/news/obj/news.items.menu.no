@@ -1,3 +1,7 @@
+Deploy Appwrite to AWS using Terraform and Ansible
+https://dev.to/rizkyrajitha/deploy-appwrite-to-aws-using-terraform-and-ansible-4af
+Introducing ReadUse - A CSS Framework for Readable and Useable Content
+https://dev.to/toheeb/introducing-readuse-a-css-framework-for-readable-and-useable-content-10d0
 5 Quizz explained in Javascript #1
 https://dev.to/codeoz/5-quizz-explained-in-javascript-1-59hn
 The Best UX Design Trends for Fintech 2021
@@ -18,10 +22,6 @@ DataDog vs Jaeger - key features, differences and alternatives
 https://dev.to/signoz/datadog-vs-jaeger-key-features-differences-and-alternatives-1590
 Integrating Vercel with Doppler: Sync Secrets in Production
 https://dev.to/umavictor6/integrating-vercel-with-doppler-sync-secrets-in-production-48bf
-CAST AI vs. Cloudability: Which one to pick for cloud cost optimization?
-https://dev.to/castai/cast-ai-vs-cloudability-which-one-to-pick-for-cloud-cost-optimization-44le
-Automating video analysis to cut your streaming bandwidth usage in half
-https://dev.to/video/automating-video-analysis-to-cut-your-streaming-bandwidth-usage-in-half-5hk1
 How to Recover Corrupted GRUB 2 Bootloader in RHEL 8
 https://www.linuxtoday.com/?post_type=user_post&p=173674
 Feren OS 2021.10 Available to Download
@@ -212,7 +212,13 @@ Chega elege presidente dia 6 e reúne congresso entre 26 e 28 de novembro
 http://expresso.pt/politica/2021-10-07-Chega-elege-presidente-dia-6-e-reune-congresso-entre-26-e-28-de-novembro-fc5374c3
 Covid-19: Norte é a região com mais casos há quatro dias consecutivos (o surto em Portugal, em gráficos e mapas)
 http://expresso.pt/coronavirus/2021-10-07-Covid-19-Norte-e-a-regiao-com-mais-casos-ha-quatro-dias-consecutivos--o-surto-em-Portugal-em-graficos-e-mapas--5edb91c5
-Incêndio de grandes dimensões em Almargem do Bispo, em Sintra
+Bombeiros combatem chamas em Almargem do Bispo
+https://www.cmjornal.pt/multimedia/fotogalerias/detalhe/bombeiros-combatem-chamas-em-almargem-do-bispo
+Incêndio de grandes dimensões em Almargem do Bispo
+https://www.cmjornal.pt/multimedia/videos/detalhe/incendio-de-grandes-dimensoes-em-almargem-do-bispo
+OMS publica definição de "longo covid" em pacientes com sintomas após dois meses da recuperação
+https://www.cmjornal.pt/mundo/detalhe/oms-publica-definicao-de-longo-covid-em-pacientes-com-sintomas-apos-dois-meses-da-recuperacao
+Cinco meios aéreos combatem chamas em Almargem do Bispo, em Sintra
 https://www.cmjornal.pt/portugal/detalhe/incendio-de-grandes-dimensoes-em-almargem-do-bispo-em-sintra
 Incêndio de grandes dimensões em Sintra
 https://www.cmjornal.pt/multimedia/videos/detalhe/incendio-de-grandes-dimensoes-em-sintra
@@ -246,13 +252,9 @@ Aeroporto de La Palma novamente fechado devido a nuvem de cinzas
 https://www.cmjornal.pt/multimedia/videos/detalhe/aeroporto-de-la-palma-novamente-fechado-devido-a-nuvem-de-cinzas
 Eanes adverte para governamentalização que ameaça "cerne espiritual das Forças Armadas"
 https://www.cmjornal.pt/portugal/detalhe/20211007-1452-eanes-adverte-para-governamentalizacao-que-ameaca-cerne-espiritual-das-forcas-armadas
-Terceira fase do inquérito serológico vai determinar imunidade após vacinação contra a Covid-19
-https://www.cmjornal.pt/sociedade/detalhe/terceira-fase-do-inquerito-serologico-vai-determinar-imunidade-apos-vacinacao-contra-a-covid-19
-"Quando se é obrigado" a exonerar um chefe de Estado-Maior, devem ser apontadas razões, diz Ramalho Eanes
-https://www.cmjornal.pt/portugal/detalhe/quando-se-e-obrigado-a-exonerar-um-chefe-de-estado-maior-devem-ser-apontadas-razoes-diz-ramalho-eanes
-Sete homens detidos por suspeitas de roubos armados a carrinhas de valores
-https://www.cmjornal.pt/portugal/detalhe/sete-homens-detidos-por-suspeitas-de-roubos-armados-a-carrinhas-de-valores
-«Mourinho queria Greewood no plantel principal, mas ele estava na escola»
+Sem clube, Jack Wilshere treina com a equipa do Arsenal
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/lt3GD54MEMA/sem-clube-jack-wilshere-treina-com-a-equipa-do-arsenal
+«Mourinho queria Greenwood no plantel, mas ele ainda estava na escola»
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/wBhbo2VcuTY/mourinho-queria-greewood-no-plantel-principal-mas-ele-estava-na-escola
 «Doença atual: homossexual», o diagnóstico que revolta uma jogadora
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/XR7OS2Y0iwE/doenca-atual-homossexual-o-diagnostico-que-revolta-uma-jogadora
@@ -290,5 +292,3 @@ http://feedproxy.google.com/~r/iol/maisfutebol/~3/5j6JlfgCEJM/selecao-jota-ruben
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/FYRokvq7U4E/regresso-a-selecao-gosto-do-futebol-das-equipas-de-jesus-isso-ajuda
 Sporting: AG aprova contas e prémios para a administração
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/xdkPEP0jaNE/sporting-ag-aprova-contas-e-aumento-de-vencimentos-da-administracao
-João Mário: «Foi muito difícil estar fora deste grupo»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/BLAgP65KX8Y/joao-mario-foi-muito-dificil-estar-fora-deste-grupo
