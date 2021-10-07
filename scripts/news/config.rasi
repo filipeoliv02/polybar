@@ -11,7 +11,7 @@ configuration {
 	padding: 30;
 	yoffset: 5;  /* the height of your polybar: negative for bottom, positive for top */
   case-sensitive: false;
-	m: "0";  /* the monitor to use */
+	/*m: "2";  [> the monitor to use <]*/
 	separator-style: "solid";
 	hide-scrollbar: true;
 	scrollbar-width: 0;

@@ -1,441 +1,294 @@
-DEV Community
 5 Quizz explained in Javascript #1
 https://dev.to/codeoz/5-quizz-explained-in-javascript-1-59hn
-DEV Community
 The Best UX Design Trends for Fintech 2021
 https://dev.to/explain_ninja/the-best-ux-design-trends-for-fintech-2021-5de8
-DEV Community
 The OGC standards that power the OS Data Hub
 https://dev.to/charleyglynn/the-ogc-standards-that-power-the-os-data-hub-4lm
-DEV Community
 #codepenchallenge:Css Animation
 https://dev.to/abdelmgeid/codepenchallenge-css-animation-2pgf
-DEV Community
 #codepenchallenge:Css Loading Animation
 https://dev.to/abdelmgeid/codepenchallenge-css-loading-animation-2cp
-DEV Community
 Divtober Day 7: Toxic
 https://dev.to/alvaromontoro/divtober-day-7-toxic-aom
-DEV Community
 Trying Out Svelte For First Time
 https://dev.to/ps173/trying-out-svelte-for-first-time-223f
-DEV Community
 An Intro to HTML Forms
 https://dev.to/zachtylr21/an-intro-to-html-forms-4gbm
-DEV Community
 DataDog vs Jaeger - key features, differences and alternatives
 https://dev.to/signoz/datadog-vs-jaeger-key-features-differences-and-alternatives-1590
-DEV Community
 Integrating Vercel with Doppler: Sync Secrets in Production
 https://dev.to/umavictor6/integrating-vercel-with-doppler-sync-secrets-in-production-48bf
-DEV Community
 CAST AI vs. Cloudability: Which one to pick for cloud cost optimization?
 https://dev.to/castai/cast-ai-vs-cloudability-which-one-to-pick-for-cloud-cost-optimization-44le
-DEV Community
 Automating video analysis to cut your streaming bandwidth usage in half
 https://dev.to/video/automating-video-analysis-to-cut-your-streaming-bandwidth-usage-in-half-5hk1
-Linux Today
 How to Recover Corrupted GRUB 2 Bootloader in RHEL 8
 https://www.linuxtoday.com/?post_type=user_post&p=173674
-Linux Today
 Feren OS 2021.10 Available to Download
 https://www.linuxtoday.com/?post_type=user_post&p=173745
-Linux Today
 UPDATE NOW: Vulnerability in Apache HTTP Server 2.4.49 Allows Files Outside of the Site Root to be Retrieved
 https://www.linuxtoday.com/?post_type=user_post&p=173737
-Linux Today
 Tomcat and TomEE Clustering Automation
 https://www.linuxtoday.com/?post_type=user_post&p=173723
-Linux Today
 How to Install Vivaldi Browser on Debian 11 Bullseye
 https://www.linuxtoday.com/?post_type=user_post&p=173670
-Linux Today
 10 Amazing and Mysterious Uses of (!) Symbol or Operator in Linux Commands
 https://www.linuxtoday.com/?post_type=user_post&p=173721
-Linux Today
 Bash Scripting: Associative Array Explained With Examples
 https://www.linuxtoday.com/?post_type=user_post&p=173725
-Linux Today
 Best Free and Open Source Alternatives to Microsoft Outlook
 https://www.linuxtoday.com/?post_type=user_post&p=173724
-Linux Today
 How to Set Up the Rsyslog Server on Debian 11
 https://www.linuxtoday.com/?post_type=user_post&p=173727
-Linux Today
 Red Hat Enterprise Linux 8.5 Enters Beta Testing with Live Kernel Patching on the Web Console
 https://www.linuxtoday.com/?post_type=user_post&p=173734
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to find the NVIDIA cuda version
 https://www.cyberciti.biz/faq/?p=149900
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 macOS Terminal: -bash: warning: setlocale: LC_CTYPE: cannot change locale (UTF-8): No such file or directory Fix
 https://www.cyberciti.biz/faq/os-x-terminal-bash-warning-setlocale-lc_ctype-cannot-change-locale/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to protect Linux against rogue USB devices using  USBGuard
 https://www.opensourceflare.com/?p=613
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to install FFmpeg with NVIDIA GPU acceleration on Linux
 https://www.cyberciti.biz/faq/?p=149886
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to generate  WireGuard QR code on Linux for mobile
 https://www.cyberciti.biz/faq/?p=149887
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How do I list lxc snapshots for LXD on Linux?
 https://www.cyberciti.biz/faq/?p=149880
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 A podman tutorial for beginners – part I
 https://www.opensourceflare.com/?p=511
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to upgrade OpenSUSE 15.2 to 15.3 using the CLI
 https://www.cyberciti.biz/faq/?p=149872
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to list all installed packages on OpenSUSE/SUSE Linux
 https://www.cyberciti.biz/faq/?p=149867
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How To Find OpenSuse / SUSE Linux Version Using CLI
 https://www.cyberciti.biz/faq/find-opensuse-suse-enterprisel-inux-version-command/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to use htmlq to extract content from HTML files on Linux, macOS or FreeBSD
 https://www.cyberciti.biz/?p=1874
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to install Docker on Amazon Linux 2
 https://www.cyberciti.biz/faq/?p=149845
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 Linux Execute Cron Job After System Reboot
 https://www.cyberciti.biz/faq/linux-execute-cron-job-after-system-reboot/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to see grep output in color with highlighting feature
 https://www.cyberciti.biz/tips/howto-see-grep-command-output-in-colours.html
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to Set or Change Hostname in Amazon Linux EC2 Instance
 https://www.cyberciti.biz/faq/?p=149842
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How To Put Multi-Line Comment in Shell Script
 https://www.cyberciti.biz/faq/bash-comment-out-multiple-line-code/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to set up Mariadb Galera cluster on Ubuntu or Debian Linux
 https://www.opensourceflare.com/?p=321
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to switch boot target to text or GUI in systemd Linux
 https://www.cyberciti.biz/faq/?p=149836
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 FreeBSD bhyve, OpenSSL, GEOM & libfetch security fixes released
 https://www.cyberciti.biz/?p=1870
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to disable core dumps in Linux including systemd
 https://www.cyberciti.biz/faq/?p=149826
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 cat command in Linux / Unix with Examples
 https://www.cyberciti.biz/faq/linux-unix-appleosx-bsd-cat-command-examples/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to upgrade Debian 10 to Debian 11 Bullseye using the CLI
 https://www.cyberciti.biz/faq/?p=149812
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to change hostname on Debian 10 Linux
 https://www.cyberciti.biz/faq/how-to-change-hostname-on-debian-10-linux/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to find and replace ALL IP addresses with a new one
 https://www.cyberciti.biz/faq/?p=149808
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to find the number of RAM Slots in Linux
 https://www.cyberciti.biz/faq/?p=149805
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How To Set Up SSH Keys With YubiKey as two-factor authentication (U2F/FIDO2)
 https://www.opensourceflare.com/?p=289
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to set up Redis sentinel cluster on Ubuntu or Debian Linux
 https://www.opensourceflare.com/?p=109
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to define multiple when conditions in Ansible
 https://www.cyberciti.biz/faq/?p=149790
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 Linux Find Out BIOS Version Using a Command Line Option
 https://www.cyberciti.biz/faq/check-bios-version-linux/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 OpenSSH Change a Passphrase With ssh-keygen command
 https://www.cyberciti.biz/faq/howto-ssh-changing-passphrase/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to find a path of a Linux command like a pro
 https://www.cyberciti.biz/?p=1852
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 What Does ‐‐ (double dash) Mean In SSH Shell Command?
 https://www.cyberciti.biz/faq/what-does-double-dash-mean-in-ssh-command/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 Shell script to monitor MariaDB replication and send email alert about server health status
 https://bash.cyberciti.biz/?p=981
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to see what packages updates available on Alpine Linux
 https://www.cyberciti.biz/faq/?p=149775
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How To Reuse SSH Connection To Speed Up Remote Login Process Using Multiplexing
 https://www.cyberciti.biz/faq/linux-unix-reuse-openssh-connection/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to set up ZFS ARC size on Ubuntu/Debian Linux
 https://www.cyberciti.biz/faq/?p=149771
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 Linux commands to check the Laptop battery's status via the terminal
 https://www.cyberciti.biz/faq/linux-laptop-battery-status-temperature/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to copy and transfer files remotely on Linux using scp and rsync
 https://www.cyberciti.biz/faq/?p=149769
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 Cut command in Linux with examples
 https://bash.cyberciti.biz/guide/Cut_command
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How To Run Commands When You Log Out Using ~/.bash_logout
 https://bash.cyberciti.biz/guide/.bash_logout
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to convert man page to HTML on Linux and Unix
 https://www.cyberciti.biz/faq/?p=149745
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 Linux help command examples and syntax
 https://bash.cyberciti.biz/guide/Help_command
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How To: Linux Find Large Files in a Directory
 https://www.cyberciti.biz/faq/find-large-files-linux/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to install Redis server on Ubuntu Linux
 https://www.cyberciti.biz/faq/?p=149715
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to audit SSH server and client config on Linux/Unix
 https://www.cyberciti.biz/tips/how-to-audit-ssh-server-and-client-config-on-linux-unix.html
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to install LAMP on Debian 10 (Buster)
 https://www.cyberciti.biz/faq/how-to-install-lamp-on-debian-10-buster/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to repeat a character ‘n’ times in Bash
 https://www.cyberciti.biz/faq/?p=149678
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 Shell script too see Time-To-Live (TTL) for a DNS record
 https://bash.cyberciti.biz/?p=947
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to find out video card GPU memory RAM size on Linux
 https://www.cyberciti.biz/faq/howto-find-linux-vga-video-card-ram/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to flush Redis cache and delete everything using the CLI
 https://www.cyberciti.biz/faq/how-to-flush-redis-cache-and-delete-everything-using-the-cli/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to set up ZFS ARC size on FreeBSD
 https://www.cyberciti.biz/faq/?p=149618
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 RHEL 8.4 released and here is how to upgrade 8.3 to 8.4
 https://www.cyberciti.biz/?p=1835
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to remove grep command while grepping using ps command
 https://www.cyberciti.biz/tips/grepping-ps-output-without-getting-grep.html
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 zcommands: Read gzip Compressed Text Files On a Fly on Linux and Unix
 https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to shutdown FreeBSD laptop when running out of battery power
 https://bash.cyberciti.biz/?p=928
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to find Intel NUC (or any laptop/desktop) BIOS version and model name on Linux/BSD
 https://www.cyberciti.biz/faq/how-to-find-intel-nuc-bios-version-and-model-on-linux/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How To Update Samsung SSD Firmware on Linux
 https://www.cyberciti.biz/faq/?p=149606
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 How to install X Window System XQuartz on macOS for ssh X11 forwarding
 https://www.cyberciti.biz/faq/apple-osx-mountain-lion-mavericks-install-xquartz-server/
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 Quick Tip: Turn off the login banner in Linux or Unix .hushlogin file
 https://www.cyberciti.biz/?p=1832
-nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)
 ls* Commands Are Even More Useful Than You May Have Thought
 https://www.cyberciti.biz/open-source/command-line-hacks/linux-ls-commands-examples/
-Tecmint: Linux Howtos, Tutorials & Guides
 How to Install Cacti on Rocky Linux and AlmaLinux
 https://www.tecmint.com/?p=43934
-Tecmint: Linux Howtos, Tutorials & Guides
 How to Install TightVNC to Access Remote Desktops in Linux
 http://www.tecmint.com/?p=3484
-Tecmint: Linux Howtos, Tutorials & Guides
 How to Compile ONLYOFFICE Desktop Editors on Ubuntu
 https://www.tecmint.com/?p=43923
-Tecmint: Linux Howtos, Tutorials & Guides
 How to Set Up ModSecurity with Apache on Debian/Ubuntu
 https://www.tecmint.com/?p=43914
-Tecmint: Linux Howtos, Tutorials & Guides
 How to Install Magento on Rocky Linux and AlmaLinux
 https://www.tecmint.com/?p=43900
-Linux.com
 Open Source 5G Ecosystem Solutions on Display at ONE Summit, as US Government Hosts Security Mini Summit
 https://www.linux.com/news/open-source-5g-ecosystem-solutions-on-display-at-one-summit-as-us-government-hosts-security-mini-summit/
-Linux.com
 The 2021 State of Open Source in Financial Services: Fintech Open Source Foundation (FINOS)
 https://www.linux.com/?p=583376
-Linux.com
 The Linux Foundation Announces Keynote Speakers for Open Source Summit + Embedded Linux Conference 2021
 https://www.linux.com/news/the-linux-foundation-announces-keynote-speakers-for-open-source-summit-embedded-linux-conference-2021-2/
-Linux.com
 The Linux Foundation Announces Conference Schedule for Open Source Summit + Embedded Linux Conference 2021
 https://www.linux.com/news/the-linux-foundation-announces-conference-schedule-for-open-source-summit-embedded-linux-conference-2021-2/
-Linux.com
 New Software Supply Chain Cybersecurity Event
 https://www.linux.com/news/new-software-supply-chain-cybersecurity-event/
-Linux.com
 Vaccines + Masks for Safe In-Person Events – Read About All On-Site Safety Protocols
 https://www.linux.com/news/vaccines-masks-for-safe-in-person-events-read-about-all-on-site-safety-protocols-2/
-Linux.com
 Linux Foundation Monthly Events Snapshot – August 2021
 https://www.linux.com/news/linux-foundation-monthly-events-snapshot-august-2021/
-Linux.com
 The Linux Foundation and Fintech Open Source Foundation Announce the Agenda for Open Source Strategy Forum London 2021, Oct 4-5
 https://www.linux.com/news/the-linux-foundation-and-fintech-open-source-foundation-announce-the-agenda-for-open-source-strategy-forum-london-2021-oct-4-5-2/
-Linux.com
 The Linux Foundation and the TODO Group  Announce the Schedule for OSPOCon Europe 2021, Oct 6
 https://www.linux.com/news/the-linux-foundation-and-the-todo-group-announce-the-schedule-for-ospocon-europe-2021-oct-6-2/
-Linux.com
 The Linux Foundation and Fintech Open Source Foundation Announce Keynote Speakers for Open Source Strategy Forum London 2021
 https://www.linux.com/news/the-linux-foundation-and-fintech-open-source-foundation-announce-keynote-speakers-for-open-source-strategy-forum-london-2021-2/
-Expresso
 Covid-19. Alemanha recomenda terceira dose de vacina para maiores de 70 anos
 http://expresso.pt/coronavirus/2021-10-07-Covid-19.-Alemanha-recomenda-terceira-dose-de-vacina-para-maiores-de-70-anos-1d440130
-Expresso
 Ramalho Eanes alerta para “governamentalização” e “partidarização” das Forças Armadas
 http://expresso.pt/politica/2021-10-07-Ramalho-Eanes-alerta-para-governamentalizacao-e-partidarizacao-das-Forcas-Armadas-01975642
-Expresso
 Covid-19: terceira fase do inquérito serológico vai determinar imunidade após vacinação
 http://expresso.pt/coronavirus/2021-10-07-Covid-19-terceira-fase-do-inquerito-serologico-vai-determinar-imunidade-apos-vacinacao-6f6c9577
-Expresso
 Covid-19: Moderna vai abrir fábrica de vacinas em África
 http://expresso.pt/coronavirus/2021-10-07-Covid-19-Moderna-vai-abrir-fabrica-de-vacinas-em-Africa-ffa871f4
-Expresso
 BCE admite que projeção de inflação para 2023 esteja subavaliada
 http://expresso.pt/economia/2021-10-07-BCE-admite-que-projecao-de-inflacao-para-2023-esteja-subavaliada-fc0618de
-Expresso
 Abdulrazak Gurnah: um Nobel para a literatura pós-colonial
 http://expresso.pt/cultura/2021-10-07-Abdulrazak-Gurnah-um-Nobel-para-a-literatura-pos-colonial-3714f1cc
-Expresso
 Covid-19: Finlândia suspende vacina Moderna por riscos de miocardites
 http://expresso.pt/coronavirus/2021-10-07-Covid-19-Finlandia-suspende-vacina-Moderna-por-riscos-de-miocardites-4b9db233
-Expresso
 Comissão Política: três tiros no porta-aviões. O Governo mantém-se à tona? Ou muda o rumo?
 http://expresso.pt/podcasts/comissao-politica/2021-10-07-Comissao-Politica-tres-tiros-no-porta-avioes.-O-Governo-mantem-se-a-tona--Ou-muda-o-rumo--e394cdc3
-Expresso
 Chega elege presidente dia 6 e reúne congresso entre 26 e 28 de novembro
 http://expresso.pt/politica/2021-10-07-Chega-elege-presidente-dia-6-e-reune-congresso-entre-26-e-28-de-novembro-fc5374c3
-Expresso
 Covid-19: Norte é a região com mais casos há quatro dias consecutivos (o surto em Portugal, em gráficos e mapas)
 http://expresso.pt/coronavirus/2021-10-07-Covid-19-Norte-e-a-regiao-com-mais-casos-ha-quatro-dias-consecutivos--o-surto-em-Portugal-em-graficos-e-mapas--5edb91c5
-Correio da Manhã
 Incêndio de grandes dimensões em Almargem do Bispo, em Sintra
 https://www.cmjornal.pt/portugal/detalhe/incendio-de-grandes-dimensoes-em-almargem-do-bispo-em-sintra
-Correio da Manhã
 Incêndio de grandes dimensões em Sintra
 https://www.cmjornal.pt/multimedia/videos/detalhe/incendio-de-grandes-dimensoes-em-sintra
-Correio da Manhã
 Prisão preventiva para homem que matou mulher de 18 anos a tiro em Alcobaça
 https://www.cmjornal.pt/portugal/detalhe/prisao-preventiva-para-homem-que-matou-mulher-de-18-anos-a-tiro-em-alcobaca
-Correio da Manhã
 Queima das Fitas de Coimbra com parecer positivo da Direção-Geral da Saúde
 https://www.cmjornal.pt/sociedade/detalhe/queima-das-fitas-de-coimbra-com-parecer-positivo-da-direcao-geral-da-saude
-Correio da Manhã
 Abdulrazak Gurnah pede à Europa que mude a visão sobre os refugiados de África
 https://www.cmjornal.pt/mundo/africa/detalhe/abdulrazak-gurnah-pede-a-europa-que-mude-a-visao-sobre-os-refugiados-de-africa
-Correio da Manhã
 Surfista havaiano Joshua Moniz sofre queda em Peniche
 https://www.cmjornal.pt/desporto/modalidades/detalhe/surfista-havaiano-joshua-moniz-sofre-queda-em-peniche
-Correio da Manhã
 ONU lança estratégia para vacinar 40% da população contra a Covid-19 em todos os países até fim do ano
 https://www.cmjornal.pt/mundo/detalhe/onu-lanca-estrategia-para-vacinar-40-da-populacao-contra-a-covid-19-em-todos-os-paises-ate-fim-do-ano
-Correio da Manhã
 Marcelo Rebelo de Sousa considera Feytor Pinto uma personalidade com um papel único para Portugal
 https://www.cmjornal.pt/sociedade/detalhe/marcelo-rebelo-de-sousa-considera-feytor-pintor-uma-personalidade-com-um-papel-unico-para-portugal
-Correio da Manhã
 Fenprof diz que ministro da Educação não tem condições para se manter se recusar negociação
 https://www.cmjornal.pt/politica/detalhe/fenprof-diz-que-ministro-da-educacao-nao-tem-condicoes-para-se-manter-se-recusar-negociacao
-Correio da Manhã
 Chega elege presidente a 6 e reúne congresso entre 26 e 28 de novembro
 https://www.cmjornal.pt/politica/detalhe/chega-elege-presidente-a-6-e-reune-congresso-entre-26-e-28-de-novembro
-Correio da Manhã
 André Ventura absolvido de racismo contra a comunidade cigana
 https://www.cmjornal.pt/portugal/detalhe/andre-ventura-absolvido-de-racismo-contra-a-comunidade-cigana
-Correio da Manhã
 António Costa diz que "os políticos têm de deixar de ser sonsos sobre as questões climáticas"
 https://www.cmjornal.pt/economia/detalhe/antonio-costa-regressa-ao-parlamento-siga-ao-minuto-o-debate
-Correio da Manhã
 11 mortos e 731 infetados por Covid-19 nas últimas 24 horas em Portugal
 https://www.cmjornal.pt/sociedade/detalhe/11-mortos-e-731-infetados-por-covid-19-nas-ultimas-24-horas-em-portugal
-Correio da Manhã
 Sismo de magnitude 6.1 na escala de Richter registado em Tóquio
 https://www.cmjornal.pt/mundo/detalhe/sismo-de-magnitude-61-na-escala-de-richter-registado-em-toquio
-Correio da Manhã
 Sete homens detidos por suspeitas de roubos armados a carrinhas de valores
 https://www.cmjornal.pt/multimedia/videos/detalhe/sete-homens-detidos-por-suspeitas-de-roubos-armados-a-carrinhas-de-valores
-Correio da Manhã
 Aeroporto de La Palma novamente fechado devido a nuvem de cinzas
 https://www.cmjornal.pt/multimedia/videos/detalhe/aeroporto-de-la-palma-novamente-fechado-devido-a-nuvem-de-cinzas
-Correio da Manhã
 Eanes adverte para governamentalização que ameaça "cerne espiritual das Forças Armadas"
 https://www.cmjornal.pt/portugal/detalhe/20211007-1452-eanes-adverte-para-governamentalizacao-que-ameaca-cerne-espiritual-das-forcas-armadas
-Correio da Manhã
 Terceira fase do inquérito serológico vai determinar imunidade após vacinação contra a Covid-19
 https://www.cmjornal.pt/sociedade/detalhe/terceira-fase-do-inquerito-serologico-vai-determinar-imunidade-apos-vacinacao-contra-a-covid-19
-Correio da Manhã
 "Quando se é obrigado" a exonerar um chefe de Estado-Maior, devem ser apontadas razões, diz Ramalho Eanes
 https://www.cmjornal.pt/portugal/detalhe/quando-se-e-obrigado-a-exonerar-um-chefe-de-estado-maior-devem-ser-apontadas-razoes-diz-ramalho-eanes
-Correio da Manhã
 Sete homens detidos por suspeitas de roubos armados a carrinhas de valores
 https://www.cmjornal.pt/portugal/detalhe/sete-homens-detidos-por-suspeitas-de-roubos-armados-a-carrinhas-de-valores
-MAISFUTEBOL
 «Mourinho queria Greewood no plantel principal, mas ele estava na escola»
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/wBhbo2VcuTY/mourinho-queria-greewood-no-plantel-principal-mas-ele-estava-na-escola
-MAISFUTEBOL
 «Doença atual: homossexual», o diagnóstico que revolta uma jogadora
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/XR7OS2Y0iwE/doenca-atual-homossexual-o-diagnostico-que-revolta-uma-jogadora
-MAISFUTEBOL
 Covid-19: Portugal com mais 11 mortes e 731 novos casos
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/y2rg2ai2pd8/covid-19-portugal-com-mais-11-mortes-e-731-novos-casos
-MAISFUTEBOL
 Mundial 2022: Son evita empate da Coreia do Sul de Paulo Bento
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/sH9WvVaeoo4/mundial-2022-son-evita-empate-da-coreia-do-sul-de-paulo-bento
-MAISFUTEBOL
 Namoro de Nelson Évora e Ana Peleteiro chegou ao fim
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/2H7CsnayQWk/namoro-de-nelson-evora-e-ana-peleteiro-chegou-ao-fim
-MAISFUTEBOL
 Juiz negacionista demitido pelo Conselho Superior de Magistratura
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/uge1V_-VggE/juiz-negacionista-demitido-pelo-conselho-superior-de-magistratura
-MAISFUTEBOL
 França: Lille e Marselha impedidos de terem adeptos nos jogos fora
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/Ac1CBF1T2fI/franca-lille-e-marselha-impedidos-de-terem-adeptos-nos-jogos-fora
-MAISFUTEBOL
 José Semedo deixa mensagem após morte da mulher: «Sempre juntos»
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/pzbeREIW1A4/jose-semedo-deixa-mensagem-apos-morte-da-mulher-sempre-juntos
-MAISFUTEBOL
 Jorge Braz: «Queremos estar nas finais de forma sustentada e contínua»
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/s8BH5SCFKms/jorge-braz-queremos-estar-nas-finais-de-forma-sustentada-e-continua
-MAISFUTEBOL
 VÍDEO: Sabino, o futebolista que tem medo... do apito
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/beMyHQOS-6s/video-sabino-o-futebolista-que-tem-medo-do-apito
-MAISFUTEBOL
 MotoGP: Algarve no calendário provisório do Mundial de 2022
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/NHT07ycsZPc/motogp-algarve-no-calendario-provisorio-do-mundial-de-2022
-MAISFUTEBOL
 VÍDEO: atletas interrompem jogos da NWSL para protestar contra abusos
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/p9dEsXOy-C8/video-atletas-interrompem-jogos-da-nwsl-para-protestar-contra-abusos
-MAISFUTEBOL
 Eleições: Benfica revela horários e locais para votar
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/0gk1sAOODJU/eleicoes-benfica-revela-horarios-e-locais-para-votar
-MAISFUTEBOL
 «Mourinho disse-me: 'Queres um pouco de sol ou continuar na chuva?'»
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/cfQWXEX_eAQ/mourinho-disse-me-queres-um-pouco-de-sol-ou-continuar-na-chuva
-MAISFUTEBOL
 «Fico feliz pelo Matheus, que seja feliz com a camisola de Portugal»
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/cZ95QwXeNGk/fico-feliz-pelo-matheus-que-seja-feliz-com-a-camisola-de-portugal
-MAISFUTEBOL
 VÍDEO: Murray está «em apuros» com a mulher e pede ajuda nas redes sociais
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/-Z4FNP6G5UQ/video-murray-esta-em-apuros-com-a-mulher-e-pede-ajuda-nas-redes-sociais
-MAISFUTEBOL
 Seleção: Jota, Rúben Neves e Nelson Semedo ausentes do treino
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/5j6JlfgCEJM/selecao-jota-ruben-neves-e-nelson-semedo-ausentes-do-treino
-MAISFUTEBOL
 «Regresso à seleção? Gosto do futebol das equipas de Jesus, isso ajuda»
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/FYRokvq7U4E/regresso-a-selecao-gosto-do-futebol-das-equipas-de-jesus-isso-ajuda
-MAISFUTEBOL
 Sporting: AG aprova contas e prémios para a administração
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/xdkPEP0jaNE/sporting-ag-aprova-contas-e-aumento-de-vencimentos-da-administracao
-MAISFUTEBOL
 João Mário: «Foi muito difícil estar fora deste grupo»
 http://feedproxy.google.com/~r/iol/maisfutebol/~3/BLAgP65KX8Y/joao-mario-foi-muito-dificil-estar-fora-deste-grupo
