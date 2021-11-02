@@ -1,47 +1,57 @@
-Deploy Appwrite to AWS using Terraform and Ansible
-https://dev.to/rizkyrajitha/deploy-appwrite-to-aws-using-terraform-and-ansible-4af
-Introducing ReadUse - A CSS Framework for Readable and Useable Content
-https://dev.to/toheeb/introducing-readuse-a-css-framework-for-readable-and-useable-content-10d0
-5 Quizz explained in Javascript #1
-https://dev.to/codeoz/5-quizz-explained-in-javascript-1-59hn
-The Best UX Design Trends for Fintech 2021
-https://dev.to/explain_ninja/the-best-ux-design-trends-for-fintech-2021-5de8
-The OGC standards that power the OS Data Hub
-https://dev.to/charleyglynn/the-ogc-standards-that-power-the-os-data-hub-4lm
-#codepenchallenge:Css Animation
-https://dev.to/abdelmgeid/codepenchallenge-css-animation-2pgf
-#codepenchallenge:Css Loading Animation
-https://dev.to/abdelmgeid/codepenchallenge-css-loading-animation-2cp
-Divtober Day 7: Toxic
-https://dev.to/alvaromontoro/divtober-day-7-toxic-aom
-Trying Out Svelte For First Time
-https://dev.to/ps173/trying-out-svelte-for-first-time-223f
-An Intro to HTML Forms
-https://dev.to/zachtylr21/an-intro-to-html-forms-4gbm
-DataDog vs Jaeger - key features, differences and alternatives
-https://dev.to/signoz/datadog-vs-jaeger-key-features-differences-and-alternatives-1590
-Integrating Vercel with Doppler: Sync Secrets in Production
-https://dev.to/umavictor6/integrating-vercel-with-doppler-sync-secrets-in-production-48bf
-How to Recover Corrupted GRUB 2 Bootloader in RHEL 8
-https://www.linuxtoday.com/?post_type=user_post&p=173674
-Feren OS 2021.10 Available to Download
-https://www.linuxtoday.com/?post_type=user_post&p=173745
-UPDATE NOW: Vulnerability in Apache HTTP Server 2.4.49 Allows Files Outside of the Site Root to be Retrieved
-https://www.linuxtoday.com/?post_type=user_post&p=173737
-Tomcat and TomEE Clustering Automation
-https://www.linuxtoday.com/?post_type=user_post&p=173723
-How to Install Vivaldi Browser on Debian 11 Bullseye
-https://www.linuxtoday.com/?post_type=user_post&p=173670
-10 Amazing and Mysterious Uses of (!) Symbol or Operator in Linux Commands
-https://www.linuxtoday.com/?post_type=user_post&p=173721
-Bash Scripting: Associative Array Explained With Examples
-https://www.linuxtoday.com/?post_type=user_post&p=173725
-Best Free and Open Source Alternatives to Microsoft Outlook
-https://www.linuxtoday.com/?post_type=user_post&p=173724
-How to Set Up the Rsyslog Server on Debian 11
-https://www.linuxtoday.com/?post_type=user_post&p=173727
-Red Hat Enterprise Linux 8.5 Enters Beta Testing with Live Kernel Patching on the Web Console
-https://www.linuxtoday.com/?post_type=user_post&p=173734
+Cross Cutting Concerns in Spring Framework
+https://dev.to/pramudaliyanage/cross-cutting-concerns-in-spring-framework-9fo
+React Components #day32
+https://dev.to/alsiamworld/1-1odn
+React interview questions answered and explained #1
+https://dev.to/javascriptacademy/react-interview-questions-answered-and-explained-1-1b95
+Turning Complex Lists into Flatten Lists in Python Without Using Any Libraries
+https://dev.to/toour/turning-complex-lists-into-flatten-lists-in-python-without-using-any-libraries-31c4
+Got verified on Polywork
+https://dev.to/kingabzpro/got-verified-on-polywork-4j41
+VSCode Setup for development
+https://dev.to/wps13/vscode-setup-for-development-4cd5
+jQuery and You: Learning the Basics
+https://dev.to/rileydaviskatz/jquery-and-you-learning-the-basics-24mc
+Docker from zero to survive
+https://dev.to/this-is-learning/docker-from-zero-to-survive-40ho
+How to hide something on different screen sizes with Bootstrap?
+https://dev.to/ekimcem/how-to-hide-something-on-different-screen-sizes-with-bootstrap-3ha7
+Developer Burnout — Signs, Impact, and Prevention
+https://dev.to/thegeoffstevens/developer-burnout-signs-impact-and-prevention-47a8
+Make your first Python Package and publish it to PyPi!
+https://dev.to/cyber/make-your-first-python-package-and-publish-it-to-pypi-3490
+How JavaScript Works_01
+https://dev.to/thecoollearner/how-javascript-works01-38e1
+How to Install ImageMagick on Rocky Linux 8
+https://www.linuxtoday.com/?post_type=user_post&p=174214
+How to Install Linux Kernel 5.15 on Rocky Linux 8
+https://www.linuxtoday.com/?post_type=user_post&p=174247
+Best Linux Distro for Gaming
+https://www.linuxtoday.com/?post_type=user_post&p=174231
+Linux Remains Above 1% on the Steam Hardware Survey
+https://www.linuxtoday.com/?post_type=user_post&p=174272
+How to Install Linux Kernel 5.15 on Ubuntu 20.04
+https://www.linuxtoday.com/?post_type=user_post&p=174256
+Firefox Browser Is Tooting Its Horn as a Fast Company “Brand That Matters”
+https://www.linuxtoday.com/?post_type=user_post&p=174213
+Local Root Vulnerability in PHP-FPM: Critical Vulnerability CVE-2021-21703
+https://www.linuxtoday.com/?post_type=user_post&p=174209
+What Is the Gemini Protocol?
+https://www.linuxtoday.com/?post_type=user_post&p=174244
+Best Alternatives to Adobe InDesign (Free and Open Source)
+https://www.linuxtoday.com/?post_type=user_post&p=174229
+Audacity 3.1 Sound Editor Released
+https://www.linuxtoday.com/?post_type=user_post&p=174233
+If your domain is not sending email, set these DNS settings to avoid spoofing and phishing
+https://www.opensourceflare.com/?p=677
+How to check SHA1 hash on Linux, FreeBSD and Unix
+https://www.cyberciti.biz/faq/?p=149921
+How to install OpenSSH server on Alpine Linux (including Docker)
+https://www.cyberciti.biz/faq/?p=149917
+How to check ZFS File system storage pool on Linux/Unix
+https://www.cyberciti.biz/faq/?p=149914
+How to display all NAT IPTables rules on Linux
+https://www.cyberciti.biz/faq/howto-iptables-show-nat-rules/
 How to find the NVIDIA cuda version
 https://www.cyberciti.biz/faq/?p=149900
 macOS Terminal: -bash: warning: setlocale: LC_CTYPE: cannot change locale (UTF-8): No such file or directory Fix
@@ -152,143 +162,133 @@ zcommands: Read gzip Compressed Text Files On a Fly on Linux and Unix
 https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html
 How to shutdown FreeBSD laptop when running out of battery power
 https://bash.cyberciti.biz/?p=928
-How to find Intel NUC (or any laptop/desktop) BIOS version and model name on Linux/BSD
-https://www.cyberciti.biz/faq/how-to-find-intel-nuc-bios-version-and-model-on-linux/
-How To Update Samsung SSD Firmware on Linux
-https://www.cyberciti.biz/faq/?p=149606
-How to install X Window System XQuartz on macOS for ssh X11 forwarding
-https://www.cyberciti.biz/faq/apple-osx-mountain-lion-mavericks-install-xquartz-server/
-Quick Tip: Turn off the login banner in Linux or Unix .hushlogin file
-https://www.cyberciti.biz/?p=1832
-ls* Commands Are Even More Useful Than You May Have Thought
-https://www.cyberciti.biz/open-source/command-line-hacks/linux-ls-commands-examples/
-How to Install Cacti on Rocky Linux and AlmaLinux
-https://www.tecmint.com/?p=43934
-How to Install TightVNC to Access Remote Desktops in Linux
-http://www.tecmint.com/?p=3484
-How to Compile ONLYOFFICE Desktop Editors on Ubuntu
-https://www.tecmint.com/?p=43923
-How to Set Up ModSecurity with Apache on Debian/Ubuntu
-https://www.tecmint.com/?p=43914
-How to Install Magento on Rocky Linux and AlmaLinux
-https://www.tecmint.com/?p=43900
-Open Source 5G Ecosystem Solutions on Display at ONE Summit, as US Government Hosts Security Mini Summit
-https://www.linux.com/news/open-source-5g-ecosystem-solutions-on-display-at-one-summit-as-us-government-hosts-security-mini-summit/
-The 2021 State of Open Source in Financial Services: Fintech Open Source Foundation (FINOS)
-https://www.linux.com/?p=583376
-The Linux Foundation Announces Keynote Speakers for Open Source Summit + Embedded Linux Conference 2021
-https://www.linux.com/news/the-linux-foundation-announces-keynote-speakers-for-open-source-summit-embedded-linux-conference-2021-2/
-The Linux Foundation Announces Conference Schedule for Open Source Summit + Embedded Linux Conference 2021
-https://www.linux.com/news/the-linux-foundation-announces-conference-schedule-for-open-source-summit-embedded-linux-conference-2021-2/
-New Software Supply Chain Cybersecurity Event
-https://www.linux.com/news/new-software-supply-chain-cybersecurity-event/
-Vaccines + Masks for Safe In-Person Events – Read About All On-Site Safety Protocols
-https://www.linux.com/news/vaccines-masks-for-safe-in-person-events-read-about-all-on-site-safety-protocols-2/
-Linux Foundation Monthly Events Snapshot – August 2021
-https://www.linux.com/news/linux-foundation-monthly-events-snapshot-august-2021/
-The Linux Foundation and Fintech Open Source Foundation Announce the Agenda for Open Source Strategy Forum London 2021, Oct 4-5
-https://www.linux.com/news/the-linux-foundation-and-fintech-open-source-foundation-announce-the-agenda-for-open-source-strategy-forum-london-2021-oct-4-5-2/
-The Linux Foundation and the TODO Group  Announce the Schedule for OSPOCon Europe 2021, Oct 6
-https://www.linux.com/news/the-linux-foundation-and-the-todo-group-announce-the-schedule-for-ospocon-europe-2021-oct-6-2/
-The Linux Foundation and Fintech Open Source Foundation Announce Keynote Speakers for Open Source Strategy Forum London 2021
-https://www.linux.com/news/the-linux-foundation-and-fintech-open-source-foundation-announce-keynote-speakers-for-open-source-strategy-forum-london-2021-2/
-Covid-19. Alemanha recomenda terceira dose de vacina para maiores de 70 anos
-http://expresso.pt/coronavirus/2021-10-07-Covid-19.-Alemanha-recomenda-terceira-dose-de-vacina-para-maiores-de-70-anos-1d440130
-Ramalho Eanes alerta para “governamentalização” e “partidarização” das Forças Armadas
-http://expresso.pt/politica/2021-10-07-Ramalho-Eanes-alerta-para-governamentalizacao-e-partidarizacao-das-Forcas-Armadas-01975642
-Covid-19: terceira fase do inquérito serológico vai determinar imunidade após vacinação
-http://expresso.pt/coronavirus/2021-10-07-Covid-19-terceira-fase-do-inquerito-serologico-vai-determinar-imunidade-apos-vacinacao-6f6c9577
-Covid-19: Moderna vai abrir fábrica de vacinas em África
-http://expresso.pt/coronavirus/2021-10-07-Covid-19-Moderna-vai-abrir-fabrica-de-vacinas-em-Africa-ffa871f4
-BCE admite que projeção de inflação para 2023 esteja subavaliada
-http://expresso.pt/economia/2021-10-07-BCE-admite-que-projecao-de-inflacao-para-2023-esteja-subavaliada-fc0618de
-Abdulrazak Gurnah: um Nobel para a literatura pós-colonial
-http://expresso.pt/cultura/2021-10-07-Abdulrazak-Gurnah-um-Nobel-para-a-literatura-pos-colonial-3714f1cc
-Covid-19: Finlândia suspende vacina Moderna por riscos de miocardites
-http://expresso.pt/coronavirus/2021-10-07-Covid-19-Finlandia-suspende-vacina-Moderna-por-riscos-de-miocardites-4b9db233
-Comissão Política: três tiros no porta-aviões. O Governo mantém-se à tona? Ou muda o rumo?
-http://expresso.pt/podcasts/comissao-politica/2021-10-07-Comissao-Politica-tres-tiros-no-porta-avioes.-O-Governo-mantem-se-a-tona--Ou-muda-o-rumo--e394cdc3
-Chega elege presidente dia 6 e reúne congresso entre 26 e 28 de novembro
-http://expresso.pt/politica/2021-10-07-Chega-elege-presidente-dia-6-e-reune-congresso-entre-26-e-28-de-novembro-fc5374c3
-Covid-19: Norte é a região com mais casos há quatro dias consecutivos (o surto em Portugal, em gráficos e mapas)
-http://expresso.pt/coronavirus/2021-10-07-Covid-19-Norte-e-a-regiao-com-mais-casos-ha-quatro-dias-consecutivos--o-surto-em-Portugal-em-graficos-e-mapas--5edb91c5
-Bombeiros combatem chamas em Almargem do Bispo
-https://www.cmjornal.pt/multimedia/fotogalerias/detalhe/bombeiros-combatem-chamas-em-almargem-do-bispo
-Incêndio de grandes dimensões em Almargem do Bispo
-https://www.cmjornal.pt/multimedia/videos/detalhe/incendio-de-grandes-dimensoes-em-almargem-do-bispo
-OMS publica definição de "longo covid" em pacientes com sintomas após dois meses da recuperação
-https://www.cmjornal.pt/mundo/detalhe/oms-publica-definicao-de-longo-covid-em-pacientes-com-sintomas-apos-dois-meses-da-recuperacao
-Cinco meios aéreos combatem chamas em Almargem do Bispo, em Sintra
-https://www.cmjornal.pt/portugal/detalhe/incendio-de-grandes-dimensoes-em-almargem-do-bispo-em-sintra
-Incêndio de grandes dimensões em Sintra
-https://www.cmjornal.pt/multimedia/videos/detalhe/incendio-de-grandes-dimensoes-em-sintra
-Prisão preventiva para homem que matou mulher de 18 anos a tiro em Alcobaça
-https://www.cmjornal.pt/portugal/detalhe/prisao-preventiva-para-homem-que-matou-mulher-de-18-anos-a-tiro-em-alcobaca
-Queima das Fitas de Coimbra com parecer positivo da Direção-Geral da Saúde
-https://www.cmjornal.pt/sociedade/detalhe/queima-das-fitas-de-coimbra-com-parecer-positivo-da-direcao-geral-da-saude
-Abdulrazak Gurnah pede à Europa que mude a visão sobre os refugiados de África
-https://www.cmjornal.pt/mundo/africa/detalhe/abdulrazak-gurnah-pede-a-europa-que-mude-a-visao-sobre-os-refugiados-de-africa
-Surfista havaiano Joshua Moniz sofre queda em Peniche
-https://www.cmjornal.pt/desporto/modalidades/detalhe/surfista-havaiano-joshua-moniz-sofre-queda-em-peniche
-ONU lança estratégia para vacinar 40% da população contra a Covid-19 em todos os países até fim do ano
-https://www.cmjornal.pt/mundo/detalhe/onu-lanca-estrategia-para-vacinar-40-da-populacao-contra-a-covid-19-em-todos-os-paises-ate-fim-do-ano
-Marcelo Rebelo de Sousa considera Feytor Pinto uma personalidade com um papel único para Portugal
-https://www.cmjornal.pt/sociedade/detalhe/marcelo-rebelo-de-sousa-considera-feytor-pintor-uma-personalidade-com-um-papel-unico-para-portugal
-Fenprof diz que ministro da Educação não tem condições para se manter se recusar negociação
-https://www.cmjornal.pt/politica/detalhe/fenprof-diz-que-ministro-da-educacao-nao-tem-condicoes-para-se-manter-se-recusar-negociacao
-Chega elege presidente a 6 e reúne congresso entre 26 e 28 de novembro
-https://www.cmjornal.pt/politica/detalhe/chega-elege-presidente-a-6-e-reune-congresso-entre-26-e-28-de-novembro
-André Ventura absolvido de racismo contra a comunidade cigana
-https://www.cmjornal.pt/portugal/detalhe/andre-ventura-absolvido-de-racismo-contra-a-comunidade-cigana
-António Costa diz que "os políticos têm de deixar de ser sonsos sobre as questões climáticas"
-https://www.cmjornal.pt/economia/detalhe/antonio-costa-regressa-ao-parlamento-siga-ao-minuto-o-debate
-11 mortos e 731 infetados por Covid-19 nas últimas 24 horas em Portugal
-https://www.cmjornal.pt/sociedade/detalhe/11-mortos-e-731-infetados-por-covid-19-nas-ultimas-24-horas-em-portugal
-Sismo de magnitude 6.1 na escala de Richter registado em Tóquio
-https://www.cmjornal.pt/mundo/detalhe/sismo-de-magnitude-61-na-escala-de-richter-registado-em-toquio
-Sete homens detidos por suspeitas de roubos armados a carrinhas de valores
-https://www.cmjornal.pt/multimedia/videos/detalhe/sete-homens-detidos-por-suspeitas-de-roubos-armados-a-carrinhas-de-valores
-Aeroporto de La Palma novamente fechado devido a nuvem de cinzas
-https://www.cmjornal.pt/multimedia/videos/detalhe/aeroporto-de-la-palma-novamente-fechado-devido-a-nuvem-de-cinzas
-Eanes adverte para governamentalização que ameaça "cerne espiritual das Forças Armadas"
-https://www.cmjornal.pt/portugal/detalhe/20211007-1452-eanes-adverte-para-governamentalizacao-que-ameaca-cerne-espiritual-das-forcas-armadas
-Sem clube, Jack Wilshere treina com a equipa do Arsenal
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/lt3GD54MEMA/sem-clube-jack-wilshere-treina-com-a-equipa-do-arsenal
-«Mourinho queria Greenwood no plantel, mas ele ainda estava na escola»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/wBhbo2VcuTY/mourinho-queria-greewood-no-plantel-principal-mas-ele-estava-na-escola
-«Doença atual: homossexual», o diagnóstico que revolta uma jogadora
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/XR7OS2Y0iwE/doenca-atual-homossexual-o-diagnostico-que-revolta-uma-jogadora
-Covid-19: Portugal com mais 11 mortes e 731 novos casos
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/y2rg2ai2pd8/covid-19-portugal-com-mais-11-mortes-e-731-novos-casos
-Mundial 2022: Son evita empate da Coreia do Sul de Paulo Bento
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/sH9WvVaeoo4/mundial-2022-son-evita-empate-da-coreia-do-sul-de-paulo-bento
-Namoro de Nelson Évora e Ana Peleteiro chegou ao fim
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/2H7CsnayQWk/namoro-de-nelson-evora-e-ana-peleteiro-chegou-ao-fim
-Juiz negacionista demitido pelo Conselho Superior de Magistratura
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/uge1V_-VggE/juiz-negacionista-demitido-pelo-conselho-superior-de-magistratura
-França: Lille e Marselha impedidos de terem adeptos nos jogos fora
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/Ac1CBF1T2fI/franca-lille-e-marselha-impedidos-de-terem-adeptos-nos-jogos-fora
-José Semedo deixa mensagem após morte da mulher: «Sempre juntos»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/pzbeREIW1A4/jose-semedo-deixa-mensagem-apos-morte-da-mulher-sempre-juntos
-Jorge Braz: «Queremos estar nas finais de forma sustentada e contínua»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/s8BH5SCFKms/jorge-braz-queremos-estar-nas-finais-de-forma-sustentada-e-continua
-VÍDEO: Sabino, o futebolista que tem medo... do apito
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/beMyHQOS-6s/video-sabino-o-futebolista-que-tem-medo-do-apito
-MotoGP: Algarve no calendário provisório do Mundial de 2022
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/NHT07ycsZPc/motogp-algarve-no-calendario-provisorio-do-mundial-de-2022
-VÍDEO: atletas interrompem jogos da NWSL para protestar contra abusos
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/p9dEsXOy-C8/video-atletas-interrompem-jogos-da-nwsl-para-protestar-contra-abusos
-Eleições: Benfica revela horários e locais para votar
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/0gk1sAOODJU/eleicoes-benfica-revela-horarios-e-locais-para-votar
-«Mourinho disse-me: 'Queres um pouco de sol ou continuar na chuva?'»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/cfQWXEX_eAQ/mourinho-disse-me-queres-um-pouco-de-sol-ou-continuar-na-chuva
-«Fico feliz pelo Matheus, que seja feliz com a camisola de Portugal»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/cZ95QwXeNGk/fico-feliz-pelo-matheus-que-seja-feliz-com-a-camisola-de-portugal
-VÍDEO: Murray está «em apuros» com a mulher e pede ajuda nas redes sociais
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/-Z4FNP6G5UQ/video-murray-esta-em-apuros-com-a-mulher-e-pede-ajuda-nas-redes-sociais
-Seleção: Jota, Rúben Neves e Nelson Semedo ausentes do treino
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/5j6JlfgCEJM/selecao-jota-ruben-neves-e-nelson-semedo-ausentes-do-treino
-«Regresso à seleção? Gosto do futebol das equipas de Jesus, isso ajuda»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/FYRokvq7U4E/regresso-a-selecao-gosto-do-futebol-das-equipas-de-jesus-isso-ajuda
-Sporting: AG aprova contas e prémios para a administração
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/xdkPEP0jaNE/sporting-ag-aprova-contas-e-aumento-de-vencimentos-da-administracao
+How to Install Java 17 on RHEL-based Linux Distributions
+http://www.tecmint.com/?p=846
+How to Install Skype on Rocky Linux / AlmaLinux
+https://www.tecmint.com/?p=44355
+How to Install Zabbix Agent and Add Windows Host to Zabbix Monitoring – Part 4
+http://www.tecmint.com/?p=16156
+How to Install and Configure Zabbix Agents on Remote Linux – Part 3
+http://www.tecmint.com/?p=16030
+How to Configure Zabbix to Send Email Alerts to Gmail Account – Part 2
+http://www.tecmint.com/?p=15251
+Build a lab in 36 seconds, run Podman on a Mac, and more tips for sysadmins
+https://www.linux.com/news/build-a-lab-in-36-seconds-run-podman-on-a-mac-and-more-tips-for-sysadmins/
+The Linux Foundation Announces Conference Schedule for  Open Source Summit Japan + Automotive Linux Summit 2021
+https://www.linux.com/news/the-linux-foundation-announces-conference-schedule-for-open-source-summit-japan-automotive-linux-summit-2021/
+2021 Open Source Jobs Report (VIDEO)
+https://www.linux.com/?p=583565
+LinkerD Graduates at CNCF, Already has a Job (VIDEO)
+https://www.linux.com/?p=583563
+Crossplane Becomes CNCF Sandbox Project (VIDEO)
+https://www.linux.com/?p=583561
+How eBPF Streamlines the Service Mesh (TNS)
+https://www.linux.com/?p=583522
+PrestoDB is Recognized as Best Open Source Software of 2021 Bossie Awards (InfoWorld)
+https://www.linux.com/?p=583514
+The ELISA Project Continues to Grow its Global Ecosystem by Welcoming Red Hat as a Premier Member and Banma, Lotus Cars and SUSE
+https://www.linux.com/news/the-elisa-project-continues-to-grow-its-global-ecosystem-by-welcoming-red-hat-as-a-premier-member-and-banma-lotus-cars-and-suse/
+Build Kubernetes pods with Podman play kube
+https://www.linux.com/news/build-kubernetes-pods-with-podman-play-kube/
+ISO establishes SBOM standard for open source development with SPDX
+https://www.linux.com/?p=583490
+Eixo Atlântico defende redução para 25% de deslocações em veículos privados
+http://expresso.pt/sociedade/2021-11-02-Eixo-Atlantico-defende-reducao-para-25-de-deslocacoes-em-veiculos-privados-d87ae37a
+Covid-19. "Rosto" da 3.ª dose da vacinação deve vir do ministério, defende Gouveia e Melo
+http://expresso.pt/coronavirus/2021-11-02-Covid-19.-Rosto-da-3.-dose-da-vacinacao-deve-vir-do-ministerio-defende-Gouveia-e-Melo-1896178f
+Se conduz em Lisboa, este texto é para si: eis os locais onde a Câmara instalou radares “modernos”
+http://expresso.pt/sociedade/2021-11-02-Se-conduz-em-Lisboa-este-texto-e-para-si-eis-os-locais-onde-a-Camara-instalou-radares-modernos-c40eac93
+COP26 e o apelo do sector do vinho: "A emergência climática é de longe a ameaça mais grave que enfrentamos como viticultores e produtores"
+http://expresso.pt/economia/2021-11-02-COP26-e-o-apelo-do-sector-do-vinho-A-emergencia-climatica-e-de-longe-a-ameaca-mais-grave-que-enfrentamos-como-viticultores-e-produtores-4d12e91b
+COP26. Programa vai utilizar €431,7 milhões em cinco anos para proteger floresta da Bacia do Congo
+http://expresso.pt/sociedade/2021-11-02-COP26.-Programa-vai-utilizar-4317-milhoes-em-cinco-anos-para-proteger-floresta-da-Bacia-do-Congo-45c3bde8
+PSD em modo de ataque a Marcelo: “ódio visceral a Rio”, “colo à geringonça” e a “mão visível” em favor de Rangel
+http://expresso.pt/politica/2021-11-02-PSD-em-modo-de-ataque-a-Marcelo-odio-visceral-a-Rio-colo-a-geringonca-e-a-mao-visivel-em-favor-de-Rangel-f2c4fe9b
+COP26. Jovens resignam-se a banhos curtos e menos carne para ganhar "corrida pela sustentabilidade"
+http://expresso.pt/sociedade/2021-11-02-COP26.-Jovens-resignam-se-a-banhos-curtos-e-menos-carne-para-ganhar-corrida-pela-sustentabilidade-e0a4f0fe
+Covid-19. Espanha regista 5.820 novos casos e 55 mortes desde sexta-feira
+http://expresso.pt/coronavirus/2021-11-02-Covid-19.-Espanha-regista-5.820-novos-casos-e-55-mortes-desde-sexta-feira-40ef3ec8
+Os memes são mesmo um negócio. E são a prova de que a inteligência artificial já está a transformar os conteúdos
+http://expresso.pt/economia/2021-11-02-Os-memes-sao-mesmo-um-negocio.-E-sao-a-prova-de-que-a-inteligencia-artificial-ja-esta-a-transformar-os-conteudos-b2487046
+Nova exposição de Paula Rego em Cascais com peças nunca antes apresentadas em público
+http://expresso.pt/cultura/2021-11-02-Nova-exposicao-de-Paula-Rego-em-Cascais-com-pecas-nunca-antes-apresentadas-em-publico-fd223842
+Portugal participa em projeto da ESA que testa monitorização de plástico nos oceanos
+https://www.cmjornal.pt/sociedade/detalhe/portugal-participa-em-projeto-da-esa-que-testa-monitorizacao-de-plastico-nos-oceanos
+Três novas cátedras aumentam presença de estudos portugueses nos Estados Unidos
+https://www.cmjornal.pt/sociedade/detalhe/tres-novas-catedras-aumentam-presenca-de-estudos-portugueses-nos-estados-unidos
+Câmara de Caminha participa de funcionários por suspeita de furto de milhares de euros
+https://www.cmjornal.pt/portugal/detalhe/camara-de-caminha-participa-de-funcionarios-por-suspeita-de-furto-de-milhares-de-euros
+Gouveia e Melo realça "retórica de guerra" no processo de vacinação
+https://www.cmjornal.pt/sociedade/detalhe/gouveia-e-melo-realca-retorica-de-guerra-no-processo-de-vacinacao
+Jorge Jesus muda tudo no onze do Benfica para o duelo com o Bayern Munique
+https://www.cmjornal.pt/desporto/detalhe/jorge-jesus-muda-tudo-no-onze-do-benfica-para-o-duelo-com-o-bayern-munique
+Tribunal "chumba" alunos de Famalicão por faltas a "Cidadania"
+https://www.cmjornal.pt/sociedade/detalhe/tribunal-chumba-alunos-de-famalicao-por-faltas-a-cidadania
+Ministério Público e Ordem dos Advogados colocam reservas à proposta sobre videovigilância
+https://www.cmjornal.pt/sociedade/detalhe/ministerio-publico-e-ordem-dos-advogados-colocam-reservas-a-proposta-sobre-videovigilancia
+União Europeia considera que as eleições na Nicarágua serão "totalmente falsas"
+https://www.cmjornal.pt/mundo/detalhe/uniao-europeia-considera-que-as-eleicoes-na-nicaragua-serao-totalmente-falsas
+Primeiro mês da última fase do desconfinamento com menos infeções e mortes
+https://www.cmjornal.pt/sociedade/detalhe/primeiro-mes-da-ultima-fase-do-desconfinamento-com-menos-infecoes-e-mortes
+CDS-PP diz que aprovação da eutanásia será "um triste fecho desta legislatura"
+https://www.cmjornal.pt/politica/detalhe/cds-pp-diz-que-aprovacao-da-eutanasia-sera-um-triste-fecho-desta-legislatura
+GNR detém homem por agressão e ameaças à companheira
+https://www.cmjornal.pt/portugal/detalhe/gnr-detem-homem-por-agressao-e-ameacas-a-companheira
+Fernando Pimenta mantém abertura para barco coletivo em Paris2024
+https://www.cmjornal.pt/desporto/detalhe/fernando-pimenta-mantem-abertura-para-barco-coletivo-em-paris2024
+Moçambique não tem recursos para financiar sozinho adaptação a alterações climáticas
+https://www.cmjornal.pt/sociedade/clima/detalhe/mocambique-nao-tem-recursos-para-financiar-sozinho-adaptacao-a-alteracoes-climaticas
+André Villas-Boas diz que o que se passou no Benfica foi "escandaloso"
+https://www.cmjornal.pt/desporto/detalhe/andre-villas-boas-diz-que-o-que-se-passou-no-benfica-foi-escandaloso
+Canadá envia cerca de meio milhão de vacinas da AstraZeneca a Angola
+https://www.cmjornal.pt/mundo/africa/detalhe/canada-envia-cerca-de-meio-milhao-de-vacinas-da-astrazeneca-a-angola
+África com mais 119 mortes e 3232 novos casos em 24 horas
+https://www.cmjornal.pt/mundo/africa/detalhe/africa-com-mais-119-mortes-e-3232-novos-casos-em-24-horas
+Primeiro-ministro de Cabo Verde pede compromissos coletivos e ação
+https://www.cmjornal.pt/mundo/africa/detalhe/primeiro-ministro-de-cabo-verde-pede-compromissos-coletivos-e-acao
+Aerossóis sulfato do vulcão de La Palma atingem Açores
+https://www.cmjornal.pt/sociedade/clima/detalhe/aerossois-sulfato-do-vulcao-de-la-palma-atingem-acores
+União Europeia formaliza parceria com Bill Gates para investir em tecnologias "verdes" de alto risco
+https://www.cmjornal.pt/sociedade/clima/detalhe/uniao-europeia-formaliza-parceria-com-bill-gates-para-investir-em-tecnologias-verdes-de-alto-risco
+Papa reconhece que metas do Acordo de Paris estão longe de atingir
+https://www.cmjornal.pt/sociedade/clima/detalhe/papa-reconhece-que-metas-do-acordo-de-paris-estao-longe-de-atingir
+Roma punida pelos cânticos racistas dirigidos a Ibrahimovic e Kessié
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/WIf6W0v6rGs/roma-punida-pelos-canticos-racistas-dirigidos-a-ibrahimovic-e-kessie
+Pedro Gonçalves: «Fico contente que seja o Coates a marcar»
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/SgPDwjA9Qq4/pedro-goncalves-fico-contente-que-seja-o-coates-a-marcar
+Ruben Amorim: «Temos de ser melhores do que fomos na Turquia com bola»
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/WZodMGV40ig/ruben-amorim-temos-de-ser-melhores-do-que-fomos-na-turquia-com-bola
+Carvajal está disposto a comer sempre brócolos para não ter mais lesões
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/y7fy15oYmmE/carvajal-esta-disposto-a-comer-sempre-brocolos-para-nao-ter-mais-lesoes
+«Sporting? Temos de ter atenção nos cantos, isso é uma certeza»
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/7cVna6bOWEU/sporting-temos-de-ter-atencao-nos-cantos-isso-e-uma-certeza
+Casillas assume que stress dos futebolistas pode originar problemas cardíacos
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/aHFa1haySVk/casillas-assume-que-stress-dos-futebolistas-pode-originar-problemas-cardiacos
+Web Summit: Patrícia Mamona quer medalha nos Mundiais de 2022
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/WEEIQvL4k_U/web-summit-patricia-mamona-quer-medalha-nos-mundiais-de-2022
+Basquetebol: FC Porto contrata Paul Jorgensen para o lugar de Landis
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/vDj6pte5OBE/basquetebol-fc-porto-contrata-paul-jorgensen-para-o-lugar-de-landis
+VÍDEO: vendaval do Seixal passou por Munique na Youth League
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/qT4C6xwkDnY/video-vendaval-do-seixal-passou-por-munique-na-youth-league
+Villas-Boas admite contactos para treinar seleções
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/8fMBFLCPJJM/villas-boas-admite-contactos-para-treinar-selecoes
+Ronaldo: «Guardo a minha energia para matar o jogo no momento certo»
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/tTVdpJP5o_4/ronaldo-poupo-a-minha-energia-para-matar-o-jogo-no-momento-certo
+Justiça suíça acusa Joseph Blatter e Michel Platini de fraude
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/_1Ojjow-twY/justica-suica-acusa-joseph-blatter-e-michel-platini-de-fraude
+MotoGP: queda afasta Marc Márquez do Grande Prémio do Algarve
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/pBiFrFv_2wY/motogp-queda-afasta-marc-marquez-do-grande-premio-do-algarve
+VÍDEO: jogador da Atalanta vai a jogo... com o colete vestido
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/DfSnCAtVwZk/video-jogador-da-atalanta-vai-a-jogo-com-o-colete-vestido
+VÍDEO: jovem do Benfica marca golo fantástico com o pé mais fraco
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/VFqWo268214/video-jovem-do-benfica-marca-golo-fantastico-com-o-pe-mais-fraco
+Ronaldo volta a ser eleito jogador do mês do Manchester United
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/v6JVCg7qtjE/ronaldo-volta-a-ser-eleito-jogador-do-mes-do-manchester-united
+Estudo: Cristiano Ronaldo tem impacto positivo no turismo da Madeira
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/GiVGtpjhueE/estudo-cristiano-ronaldo-tem-impacto-positivo-no-turismo-da-madeira
+Klopp: «Não era preciso Simeone ter feito o que fez no último jogo»
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/WQyB5i_v2BI/klopp-nao-era-preciso-simeone-ter-feito-o-que-fez-no-ultimo-jogo
+Futebol de praia: Portugal perde na ronda inaugural da Taça Internacional
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/kVrwKdkquA4/futebol-de-praia-portugal-perde-na-ronda-inaugural-da-taca-internacional
+Bayern Munique confirma regresso de Nagelsmann
+http://feedproxy.google.com/~r/iol/maisfutebol/~3/Aj2aQvIrut8/bayern-munique-confirma-regresso-de-nagelsmann
