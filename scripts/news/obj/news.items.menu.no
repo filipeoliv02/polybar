@@ -1,294 +1,194 @@
-Cross Cutting Concerns in Spring Framework
-https://dev.to/pramudaliyanage/cross-cutting-concerns-in-spring-framework-9fo
-React Components #day32
-https://dev.to/alsiamworld/1-1odn
-React interview questions answered and explained #1
-https://dev.to/javascriptacademy/react-interview-questions-answered-and-explained-1-1b95
-Turning Complex Lists into Flatten Lists in Python Without Using Any Libraries
-https://dev.to/toour/turning-complex-lists-into-flatten-lists-in-python-without-using-any-libraries-31c4
-Got verified on Polywork
-https://dev.to/kingabzpro/got-verified-on-polywork-4j41
-VSCode Setup for development
-https://dev.to/wps13/vscode-setup-for-development-4cd5
-jQuery and You: Learning the Basics
-https://dev.to/rileydaviskatz/jquery-and-you-learning-the-basics-24mc
-Docker from zero to survive
-https://dev.to/this-is-learning/docker-from-zero-to-survive-40ho
-How to hide something on different screen sizes with Bootstrap?
-https://dev.to/ekimcem/how-to-hide-something-on-different-screen-sizes-with-bootstrap-3ha7
-Developer Burnout — Signs, Impact, and Prevention
-https://dev.to/thegeoffstevens/developer-burnout-signs-impact-and-prevention-47a8
-Make your first Python Package and publish it to PyPi!
-https://dev.to/cyber/make-your-first-python-package-and-publish-it-to-pypi-3490
-How JavaScript Works_01
-https://dev.to/thecoollearner/how-javascript-works01-38e1
-How to Install ImageMagick on Rocky Linux 8
-https://www.linuxtoday.com/?post_type=user_post&p=174214
-How to Install Linux Kernel 5.15 on Rocky Linux 8
-https://www.linuxtoday.com/?post_type=user_post&p=174247
-Best Linux Distro for Gaming
-https://www.linuxtoday.com/?post_type=user_post&p=174231
-Linux Remains Above 1% on the Steam Hardware Survey
-https://www.linuxtoday.com/?post_type=user_post&p=174272
-How to Install Linux Kernel 5.15 on Ubuntu 20.04
-https://www.linuxtoday.com/?post_type=user_post&p=174256
-Firefox Browser Is Tooting Its Horn as a Fast Company “Brand That Matters”
-https://www.linuxtoday.com/?post_type=user_post&p=174213
-Local Root Vulnerability in PHP-FPM: Critical Vulnerability CVE-2021-21703
-https://www.linuxtoday.com/?post_type=user_post&p=174209
-What Is the Gemini Protocol?
-https://www.linuxtoday.com/?post_type=user_post&p=174244
-Best Alternatives to Adobe InDesign (Free and Open Source)
-https://www.linuxtoday.com/?post_type=user_post&p=174229
-Audacity 3.1 Sound Editor Released
-https://www.linuxtoday.com/?post_type=user_post&p=174233
-If your domain is not sending email, set these DNS settings to avoid spoofing and phishing
-https://www.opensourceflare.com/?p=677
-How to check SHA1 hash on Linux, FreeBSD and Unix
-https://www.cyberciti.biz/faq/?p=149921
-How to install OpenSSH server on Alpine Linux (including Docker)
-https://www.cyberciti.biz/faq/?p=149917
-How to check ZFS File system storage pool on Linux/Unix
-https://www.cyberciti.biz/faq/?p=149914
-How to display all NAT IPTables rules on Linux
-https://www.cyberciti.biz/faq/howto-iptables-show-nat-rules/
-How to find the NVIDIA cuda version
-https://www.cyberciti.biz/faq/?p=149900
-macOS Terminal: -bash: warning: setlocale: LC_CTYPE: cannot change locale (UTF-8): No such file or directory Fix
-https://www.cyberciti.biz/faq/os-x-terminal-bash-warning-setlocale-lc_ctype-cannot-change-locale/
-How to protect Linux against rogue USB devices using  USBGuard
-https://www.opensourceflare.com/?p=613
-How to install FFmpeg with NVIDIA GPU acceleration on Linux
-https://www.cyberciti.biz/faq/?p=149886
-How to generate  WireGuard QR code on Linux for mobile
-https://www.cyberciti.biz/faq/?p=149887
-How do I list lxc snapshots for LXD on Linux?
-https://www.cyberciti.biz/faq/?p=149880
-A podman tutorial for beginners – part I
-https://www.opensourceflare.com/?p=511
-How to upgrade OpenSUSE 15.2 to 15.3 using the CLI
-https://www.cyberciti.biz/faq/?p=149872
-How to list all installed packages on OpenSUSE/SUSE Linux
-https://www.cyberciti.biz/faq/?p=149867
-How To Find OpenSuse / SUSE Linux Version Using CLI
-https://www.cyberciti.biz/faq/find-opensuse-suse-enterprisel-inux-version-command/
+Python Inheritance
+https://dev.to/baransel/python-inheritance-2hm4
+From my point of Vue: State management
+https://dev.to/jesusantguerrero/from-my-point-of-vue-state-management-apj
+Tools I use daily to code!
+https://dev.to/slimpotatoboy/tools-i-use-daily-to-code-1gp1
+Complete guide to becoming a DevOps Engineer - 2022 🚀🧑‍💻
+https://dev.to/ankit01oss/complete-guide-to-becoming-a-devops-engineer-2022-10h0
+JavaScript methods for finding elements
+https://dev.to/thenerdydev/javascript-methods-for-finding-elements-1j21
+One secret tip for first-time OSS contributors. Shh! 🤫 don't tell anyone else
+https://dev.to/bhupesh/one-secret-tip-for-first-time-oss-contributors-shh-dont-tell-anyone-else-442o
+FLiP:  Py: Pi: Gas Sensor + Thermal IoT Example
+https://dev.to/tspannhw/flip-py-pi-gas-sensor-thermal-iot-example-485p
+5- What is Continuous Integration and Continuous Delivery? Why should it be used?
+https://dev.to/hamitseyrek/what-is-continuous-integration-and-continuous-delivery-why-should-it-be-used-13en
+How to delete all merged git branches with one terminal command
+https://dev.to/whitep4nth3r/how-to-delete-all-merged-git-branches-with-one-terminal-command-3hho
+The impact of sharing sessions in an engineering team
+https://dev.to/tahsinature/the-impact-of-sharing-sessions-in-an-engineering-team-5f3g
+Watch Out for These Tricky Things in Go
+https://dev.to/jpoly1219/watch-out-for-these-tricky-things-in-go-5bkn
+Hot Richard - now on the AWS Free Tier!
+https://dev.to/johnnymccodes/hot-richard-now-on-the-aws-free-tier-3eon
+How to Install Webmin on Debian 11
+https://www.linuxtoday.com/?post_type=user_post&p=176479
+Meet System Monitoring Center, a Powerful System Performance and Usage Monitoring Tool
+https://www.linuxtoday.com/?post_type=user_post&p=176475
+How to Use the G++ Compiler on Linux
+https://www.linuxtoday.com/?post_type=user_post&p=176468
+How to Add Linux Host to Nagios Monitoring Server Using NRPE Plugin
+https://www.linuxtoday.com/?post_type=user_post&p=176471
+DXVK 1.10 Adds More Improvements for God of War, Other Games
+https://www.linuxtoday.com/?post_type=user_post&p=176478
+The Top 1,000 Open-source Libraries
+https://www.linuxtoday.com/?post_type=user_post&p=176480
+How to Enable Kernel Crash Dump on Debian Linux
+https://www.linuxtoday.com/?post_type=user_post&p=176472
+How to Resize a Qcow2 Disk Image on Linux
+https://www.linuxtoday.com/?post_type=user_post&p=176470
+Intro to Rusty Aquarium – Monitoring by Visualization
+https://www.linuxtoday.com/?post_type=user_post&p=176473
+Install and Configure FTP Server on Rocky Linux 8
+https://www.linuxtoday.com/?post_type=user_post&p=176469
+Update your nixCraft RSS feed
+https://www.cyberciti.biz/?p=1931
+How to migrate from CentOS 8 to AlmaLinux (conversion)
+https://www.cyberciti.biz/?p=1919
+How to migrate from CentOS 8 to Rocky Linux (conversion)
+https://www.cyberciti.biz/?p=1902
+How much does a Linux desktop OS cost?
+https://www.cyberciti.biz/?p=1894
+How to migrate from CentOS 8 to CentOS stream conversion
+https://www.cyberciti.biz/?p=1890
 How to use htmlq to extract content from HTML files on Linux, macOS or FreeBSD
 https://www.cyberciti.biz/?p=1874
-How to install Docker on Amazon Linux 2
-https://www.cyberciti.biz/faq/?p=149845
-Linux Execute Cron Job After System Reboot
-https://www.cyberciti.biz/faq/linux-execute-cron-job-after-system-reboot/
-How to see grep output in color with highlighting feature
-https://www.cyberciti.biz/tips/howto-see-grep-command-output-in-colours.html
-How to Set or Change Hostname in Amazon Linux EC2 Instance
-https://www.cyberciti.biz/faq/?p=149842
-How To Put Multi-Line Comment in Shell Script
-https://www.cyberciti.biz/faq/bash-comment-out-multiple-line-code/
-How to set up Mariadb Galera cluster on Ubuntu or Debian Linux
-https://www.opensourceflare.com/?p=321
-How to switch boot target to text or GUI in systemd Linux
-https://www.cyberciti.biz/faq/?p=149836
 FreeBSD bhyve, OpenSSL, GEOM & libfetch security fixes released
 https://www.cyberciti.biz/?p=1870
-How to disable core dumps in Linux including systemd
-https://www.cyberciti.biz/faq/?p=149826
-cat command in Linux / Unix with Examples
-https://www.cyberciti.biz/faq/linux-unix-appleosx-bsd-cat-command-examples/
-How to upgrade Debian 10 to Debian 11 Bullseye using the CLI
-https://www.cyberciti.biz/faq/?p=149812
-How to change hostname on Debian 10 Linux
-https://www.cyberciti.biz/faq/how-to-change-hostname-on-debian-10-linux/
-How to find and replace ALL IP addresses with a new one
-https://www.cyberciti.biz/faq/?p=149808
-How to find the number of RAM Slots in Linux
-https://www.cyberciti.biz/faq/?p=149805
-How To Set Up SSH Keys With YubiKey as two-factor authentication (U2F/FIDO2)
-https://www.opensourceflare.com/?p=289
-How to set up Redis sentinel cluster on Ubuntu or Debian Linux
-https://www.opensourceflare.com/?p=109
-How to define multiple when conditions in Ansible
-https://www.cyberciti.biz/faq/?p=149790
-Linux Find Out BIOS Version Using a Command Line Option
-https://www.cyberciti.biz/faq/check-bios-version-linux/
-OpenSSH Change a Passphrase With ssh-keygen command
-https://www.cyberciti.biz/faq/howto-ssh-changing-passphrase/
 How to find a path of a Linux command like a pro
 https://www.cyberciti.biz/?p=1852
-What Does ‐‐ (double dash) Mean In SSH Shell Command?
-https://www.cyberciti.biz/faq/what-does-double-dash-mean-in-ssh-command/
-Shell script to monitor MariaDB replication and send email alert about server health status
-https://bash.cyberciti.biz/?p=981
-How to see what packages updates available on Alpine Linux
-https://www.cyberciti.biz/faq/?p=149775
-How To Reuse SSH Connection To Speed Up Remote Login Process Using Multiplexing
-https://www.cyberciti.biz/faq/linux-unix-reuse-openssh-connection/
-How to set up ZFS ARC size on Ubuntu/Debian Linux
-https://www.cyberciti.biz/faq/?p=149771
-Linux commands to check the Laptop battery's status via the terminal
-https://www.cyberciti.biz/faq/linux-laptop-battery-status-temperature/
-How to copy and transfer files remotely on Linux using scp and rsync
-https://www.cyberciti.biz/faq/?p=149769
-Cut command in Linux with examples
-https://bash.cyberciti.biz/guide/Cut_command
-How To Run Commands When You Log Out Using ~/.bash_logout
-https://bash.cyberciti.biz/guide/.bash_logout
-How to convert man page to HTML on Linux and Unix
-https://www.cyberciti.biz/faq/?p=149745
-Linux help command examples and syntax
-https://bash.cyberciti.biz/guide/Help_command
-How To: Linux Find Large Files in a Directory
-https://www.cyberciti.biz/faq/find-large-files-linux/
-How to install Redis server on Ubuntu Linux
-https://www.cyberciti.biz/faq/?p=149715
-How to audit SSH server and client config on Linux/Unix
-https://www.cyberciti.biz/tips/how-to-audit-ssh-server-and-client-config-on-linux-unix.html
-How to install LAMP on Debian 10 (Buster)
-https://www.cyberciti.biz/faq/how-to-install-lamp-on-debian-10-buster/
-How to repeat a character ‘n’ times in Bash
-https://www.cyberciti.biz/faq/?p=149678
-Shell script too see Time-To-Live (TTL) for a DNS record
-https://bash.cyberciti.biz/?p=947
-How to find out video card GPU memory RAM size on Linux
-https://www.cyberciti.biz/faq/howto-find-linux-vga-video-card-ram/
-How to flush Redis cache and delete everything using the CLI
-https://www.cyberciti.biz/faq/how-to-flush-redis-cache-and-delete-everything-using-the-cli/
-How to set up ZFS ARC size on FreeBSD
-https://www.cyberciti.biz/faq/?p=149618
 RHEL 8.4 released and here is how to upgrade 8.3 to 8.4
 https://www.cyberciti.biz/?p=1835
-How to remove grep command while grepping using ps command
-https://www.cyberciti.biz/tips/grepping-ps-output-without-getting-grep.html
-zcommands: Read gzip Compressed Text Files On a Fly on Linux and Unix
-https://www.cyberciti.biz/tips/decompress-and-expand-text-files.html
-How to shutdown FreeBSD laptop when running out of battery power
-https://bash.cyberciti.biz/?p=928
-How to Install Java 17 on RHEL-based Linux Distributions
-http://www.tecmint.com/?p=846
-How to Install Skype on Rocky Linux / AlmaLinux
-https://www.tecmint.com/?p=44355
-How to Install Zabbix Agent and Add Windows Host to Zabbix Monitoring – Part 4
-http://www.tecmint.com/?p=16156
-How to Install and Configure Zabbix Agents on Remote Linux – Part 3
-http://www.tecmint.com/?p=16030
-How to Configure Zabbix to Send Email Alerts to Gmail Account – Part 2
-http://www.tecmint.com/?p=15251
-Build a lab in 36 seconds, run Podman on a Mac, and more tips for sysadmins
-https://www.linux.com/news/build-a-lab-in-36-seconds-run-podman-on-a-mac-and-more-tips-for-sysadmins/
-The Linux Foundation Announces Conference Schedule for  Open Source Summit Japan + Automotive Linux Summit 2021
-https://www.linux.com/news/the-linux-foundation-announces-conference-schedule-for-open-source-summit-japan-automotive-linux-summit-2021/
-2021 Open Source Jobs Report (VIDEO)
-https://www.linux.com/?p=583565
-LinkerD Graduates at CNCF, Already has a Job (VIDEO)
-https://www.linux.com/?p=583563
-Crossplane Becomes CNCF Sandbox Project (VIDEO)
-https://www.linux.com/?p=583561
-How eBPF Streamlines the Service Mesh (TNS)
-https://www.linux.com/?p=583522
-PrestoDB is Recognized as Best Open Source Software of 2021 Bossie Awards (InfoWorld)
-https://www.linux.com/?p=583514
-The ELISA Project Continues to Grow its Global Ecosystem by Welcoming Red Hat as a Premier Member and Banma, Lotus Cars and SUSE
-https://www.linux.com/news/the-elisa-project-continues-to-grow-its-global-ecosystem-by-welcoming-red-hat-as-a-premier-member-and-banma-lotus-cars-and-suse/
-Build Kubernetes pods with Podman play kube
-https://www.linux.com/news/build-kubernetes-pods-with-podman-play-kube/
-ISO establishes SBOM standard for open source development with SPDX
-https://www.linux.com/?p=583490
-Eixo Atlântico defende redução para 25% de deslocações em veículos privados
-http://expresso.pt/sociedade/2021-11-02-Eixo-Atlantico-defende-reducao-para-25-de-deslocacoes-em-veiculos-privados-d87ae37a
-Covid-19. "Rosto" da 3.ª dose da vacinação deve vir do ministério, defende Gouveia e Melo
-http://expresso.pt/coronavirus/2021-11-02-Covid-19.-Rosto-da-3.-dose-da-vacinacao-deve-vir-do-ministerio-defende-Gouveia-e-Melo-1896178f
-Se conduz em Lisboa, este texto é para si: eis os locais onde a Câmara instalou radares “modernos”
-http://expresso.pt/sociedade/2021-11-02-Se-conduz-em-Lisboa-este-texto-e-para-si-eis-os-locais-onde-a-Camara-instalou-radares-modernos-c40eac93
-COP26 e o apelo do sector do vinho: "A emergência climática é de longe a ameaça mais grave que enfrentamos como viticultores e produtores"
-http://expresso.pt/economia/2021-11-02-COP26-e-o-apelo-do-sector-do-vinho-A-emergencia-climatica-e-de-longe-a-ameaca-mais-grave-que-enfrentamos-como-viticultores-e-produtores-4d12e91b
-COP26. Programa vai utilizar €431,7 milhões em cinco anos para proteger floresta da Bacia do Congo
-http://expresso.pt/sociedade/2021-11-02-COP26.-Programa-vai-utilizar-4317-milhoes-em-cinco-anos-para-proteger-floresta-da-Bacia-do-Congo-45c3bde8
-PSD em modo de ataque a Marcelo: “ódio visceral a Rio”, “colo à geringonça” e a “mão visível” em favor de Rangel
-http://expresso.pt/politica/2021-11-02-PSD-em-modo-de-ataque-a-Marcelo-odio-visceral-a-Rio-colo-a-geringonca-e-a-mao-visivel-em-favor-de-Rangel-f2c4fe9b
-COP26. Jovens resignam-se a banhos curtos e menos carne para ganhar "corrida pela sustentabilidade"
-http://expresso.pt/sociedade/2021-11-02-COP26.-Jovens-resignam-se-a-banhos-curtos-e-menos-carne-para-ganhar-corrida-pela-sustentabilidade-e0a4f0fe
-Covid-19. Espanha regista 5.820 novos casos e 55 mortes desde sexta-feira
-http://expresso.pt/coronavirus/2021-11-02-Covid-19.-Espanha-regista-5.820-novos-casos-e-55-mortes-desde-sexta-feira-40ef3ec8
-Os memes são mesmo um negócio. E são a prova de que a inteligência artificial já está a transformar os conteúdos
-http://expresso.pt/economia/2021-11-02-Os-memes-sao-mesmo-um-negocio.-E-sao-a-prova-de-que-a-inteligencia-artificial-ja-esta-a-transformar-os-conteudos-b2487046
-Nova exposição de Paula Rego em Cascais com peças nunca antes apresentadas em público
-http://expresso.pt/cultura/2021-11-02-Nova-exposicao-de-Paula-Rego-em-Cascais-com-pecas-nunca-antes-apresentadas-em-publico-fd223842
-Portugal participa em projeto da ESA que testa monitorização de plástico nos oceanos
-https://www.cmjornal.pt/sociedade/detalhe/portugal-participa-em-projeto-da-esa-que-testa-monitorizacao-de-plastico-nos-oceanos
-Três novas cátedras aumentam presença de estudos portugueses nos Estados Unidos
-https://www.cmjornal.pt/sociedade/detalhe/tres-novas-catedras-aumentam-presenca-de-estudos-portugueses-nos-estados-unidos
-Câmara de Caminha participa de funcionários por suspeita de furto de milhares de euros
-https://www.cmjornal.pt/portugal/detalhe/camara-de-caminha-participa-de-funcionarios-por-suspeita-de-furto-de-milhares-de-euros
-Gouveia e Melo realça "retórica de guerra" no processo de vacinação
-https://www.cmjornal.pt/sociedade/detalhe/gouveia-e-melo-realca-retorica-de-guerra-no-processo-de-vacinacao
-Jorge Jesus muda tudo no onze do Benfica para o duelo com o Bayern Munique
-https://www.cmjornal.pt/desporto/detalhe/jorge-jesus-muda-tudo-no-onze-do-benfica-para-o-duelo-com-o-bayern-munique
-Tribunal "chumba" alunos de Famalicão por faltas a "Cidadania"
-https://www.cmjornal.pt/sociedade/detalhe/tribunal-chumba-alunos-de-famalicao-por-faltas-a-cidadania
-Ministério Público e Ordem dos Advogados colocam reservas à proposta sobre videovigilância
-https://www.cmjornal.pt/sociedade/detalhe/ministerio-publico-e-ordem-dos-advogados-colocam-reservas-a-proposta-sobre-videovigilancia
-União Europeia considera que as eleições na Nicarágua serão "totalmente falsas"
-https://www.cmjornal.pt/mundo/detalhe/uniao-europeia-considera-que-as-eleicoes-na-nicaragua-serao-totalmente-falsas
-Primeiro mês da última fase do desconfinamento com menos infeções e mortes
-https://www.cmjornal.pt/sociedade/detalhe/primeiro-mes-da-ultima-fase-do-desconfinamento-com-menos-infecoes-e-mortes
-CDS-PP diz que aprovação da eutanásia será "um triste fecho desta legislatura"
-https://www.cmjornal.pt/politica/detalhe/cds-pp-diz-que-aprovacao-da-eutanasia-sera-um-triste-fecho-desta-legislatura
-GNR detém homem por agressão e ameaças à companheira
-https://www.cmjornal.pt/portugal/detalhe/gnr-detem-homem-por-agressao-e-ameacas-a-companheira
-Fernando Pimenta mantém abertura para barco coletivo em Paris2024
-https://www.cmjornal.pt/desporto/detalhe/fernando-pimenta-mantem-abertura-para-barco-coletivo-em-paris2024
-Moçambique não tem recursos para financiar sozinho adaptação a alterações climáticas
-https://www.cmjornal.pt/sociedade/clima/detalhe/mocambique-nao-tem-recursos-para-financiar-sozinho-adaptacao-a-alteracoes-climaticas
-André Villas-Boas diz que o que se passou no Benfica foi "escandaloso"
-https://www.cmjornal.pt/desporto/detalhe/andre-villas-boas-diz-que-o-que-se-passou-no-benfica-foi-escandaloso
-Canadá envia cerca de meio milhão de vacinas da AstraZeneca a Angola
-https://www.cmjornal.pt/mundo/africa/detalhe/canada-envia-cerca-de-meio-milhao-de-vacinas-da-astrazeneca-a-angola
-África com mais 119 mortes e 3232 novos casos em 24 horas
-https://www.cmjornal.pt/mundo/africa/detalhe/africa-com-mais-119-mortes-e-3232-novos-casos-em-24-horas
-Primeiro-ministro de Cabo Verde pede compromissos coletivos e ação
-https://www.cmjornal.pt/mundo/africa/detalhe/primeiro-ministro-de-cabo-verde-pede-compromissos-coletivos-e-acao
-Aerossóis sulfato do vulcão de La Palma atingem Açores
-https://www.cmjornal.pt/sociedade/clima/detalhe/aerossois-sulfato-do-vulcao-de-la-palma-atingem-acores
-União Europeia formaliza parceria com Bill Gates para investir em tecnologias "verdes" de alto risco
-https://www.cmjornal.pt/sociedade/clima/detalhe/uniao-europeia-formaliza-parceria-com-bill-gates-para-investir-em-tecnologias-verdes-de-alto-risco
-Papa reconhece que metas do Acordo de Paris estão longe de atingir
-https://www.cmjornal.pt/sociedade/clima/detalhe/papa-reconhece-que-metas-do-acordo-de-paris-estao-longe-de-atingir
-Roma punida pelos cânticos racistas dirigidos a Ibrahimovic e Kessié
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/WIf6W0v6rGs/roma-punida-pelos-canticos-racistas-dirigidos-a-ibrahimovic-e-kessie
-Pedro Gonçalves: «Fico contente que seja o Coates a marcar»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/SgPDwjA9Qq4/pedro-goncalves-fico-contente-que-seja-o-coates-a-marcar
-Ruben Amorim: «Temos de ser melhores do que fomos na Turquia com bola»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/WZodMGV40ig/ruben-amorim-temos-de-ser-melhores-do-que-fomos-na-turquia-com-bola
-Carvajal está disposto a comer sempre brócolos para não ter mais lesões
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/y7fy15oYmmE/carvajal-esta-disposto-a-comer-sempre-brocolos-para-nao-ter-mais-lesoes
-«Sporting? Temos de ter atenção nos cantos, isso é uma certeza»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/7cVna6bOWEU/sporting-temos-de-ter-atencao-nos-cantos-isso-e-uma-certeza
-Casillas assume que stress dos futebolistas pode originar problemas cardíacos
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/aHFa1haySVk/casillas-assume-que-stress-dos-futebolistas-pode-originar-problemas-cardiacos
-Web Summit: Patrícia Mamona quer medalha nos Mundiais de 2022
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/WEEIQvL4k_U/web-summit-patricia-mamona-quer-medalha-nos-mundiais-de-2022
-Basquetebol: FC Porto contrata Paul Jorgensen para o lugar de Landis
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/vDj6pte5OBE/basquetebol-fc-porto-contrata-paul-jorgensen-para-o-lugar-de-landis
-VÍDEO: vendaval do Seixal passou por Munique na Youth League
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/qT4C6xwkDnY/video-vendaval-do-seixal-passou-por-munique-na-youth-league
-Villas-Boas admite contactos para treinar seleções
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/8fMBFLCPJJM/villas-boas-admite-contactos-para-treinar-selecoes
-Ronaldo: «Guardo a minha energia para matar o jogo no momento certo»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/tTVdpJP5o_4/ronaldo-poupo-a-minha-energia-para-matar-o-jogo-no-momento-certo
-Justiça suíça acusa Joseph Blatter e Michel Platini de fraude
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/_1Ojjow-twY/justica-suica-acusa-joseph-blatter-e-michel-platini-de-fraude
-MotoGP: queda afasta Marc Márquez do Grande Prémio do Algarve
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/pBiFrFv_2wY/motogp-queda-afasta-marc-marquez-do-grande-premio-do-algarve
-VÍDEO: jogador da Atalanta vai a jogo... com o colete vestido
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/DfSnCAtVwZk/video-jogador-da-atalanta-vai-a-jogo-com-o-colete-vestido
-VÍDEO: jovem do Benfica marca golo fantástico com o pé mais fraco
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/VFqWo268214/video-jovem-do-benfica-marca-golo-fantastico-com-o-pe-mais-fraco
-Ronaldo volta a ser eleito jogador do mês do Manchester United
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/v6JVCg7qtjE/ronaldo-volta-a-ser-eleito-jogador-do-mes-do-manchester-united
-Estudo: Cristiano Ronaldo tem impacto positivo no turismo da Madeira
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/GiVGtpjhueE/estudo-cristiano-ronaldo-tem-impacto-positivo-no-turismo-da-madeira
-Klopp: «Não era preciso Simeone ter feito o que fez no último jogo»
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/WQyB5i_v2BI/klopp-nao-era-preciso-simeone-ter-feito-o-que-fez-no-ultimo-jogo
-Futebol de praia: Portugal perde na ronda inaugural da Taça Internacional
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/kVrwKdkquA4/futebol-de-praia-portugal-perde-na-ronda-inaugural-da-taca-internacional
-Bayern Munique confirma regresso de Nagelsmann
-http://feedproxy.google.com/~r/iol/maisfutebol/~3/Aj2aQvIrut8/bayern-munique-confirma-regresso-de-nagelsmann
+Quick Tip: Turn off the login banner in Linux or Unix .hushlogin file
+https://www.cyberciti.biz/?p=1832
+Things To Do After Installing Ubuntu 20.04/22.04 LTS
+http://www.tecmint.com/?p=19296
+How to Convert a /Home Directory to Partition in Linux
+https://www.tecmint.com/?p=45536
+13 Useful Performance and Network Monitoring Tools for Linux
+http://www.tecmint.com/?p=10122
+10 Useful Tools to Create Bootable USB from an ISO Image
+https://www.tecmint.com/?p=45495
+How To Control Access Based on Client IP Address in NGINX
+https://www.tecmint.com/?p=45481
+Three Ways to Engage with Open Source Program Offices
+https://www.linux.com/news/three-ways-to-engage-with-open-source-program-offices/
+New Podman features, file sharing with Samba, and more tips for sysadmins
+https://www.linux.com/news/new-podman-features-file-sharing-with-samba-and-more-tips-for-sysadmins/
+The Linux Foundation and Harvard’s Lab for Innovation Science Release Census of Most Widely Used Open Source Application Libraries
+https://www.linux.com/news/the-linux-foundation-and-harvards-lab-for-innovation-science-release-census-of-most-widely-used-open-source-application-libraries/
+Open Source Security Foundation Attracts New Commitments, Advances Key Initiatives in Weeks Since White House Security Summit
+https://www.linux.com/news/open-source-security-foundation-attracts-new-commitments-advances-key-initiatives-in-weeks-since-white-house-security-summit/
+Get started on OpenStack with DevStack
+https://www.linux.com/news/get-started-on-openstack-with-devstack/
+Red Hat Joins Magma Core Foundation at Premier Level, Community Set to Further Open Source Mobile Packet Core
+https://www.linux.com/news/red-hat-joins-magma-core-foundation-at-premier-level-community-set-to-further-open-source-mobile-packet-core/
+American Tower Joins LF Edge as Premiere Member,  Community Adds EdgeGallery to Project Roster
+https://www.linux.com/news/american-tower-joins-lf-edge-as-premiere-member-community-adds-edgegallery-to-project-roster/
+Linux Foundation Announces New Project “CAMARA – The Telco Global API Alliance” with Global Industry Ecosystem
+https://www.linux.com/news/linux-foundation-announces-new-project-camara-the-telco-global-api-alliance-with-global-industry-ecosystem/
+Leveraging the Open Source Program Office: New Research Unpacks the Evolution of the OSPO (and a Whole Lot More)
+https://www.linux.com/news/leveraging-the-open-source-program-office-new-research-unpacks-the-evolution-of-the-ospo-and-a-whole-lot-more/
+How to build redundancy into your network (and what to avoid)
+https://www.linux.com/news/how-to-build-redundancy-into-your-network-and-what-to-avoid/
+Quem tem medo dos Liberais?
+http://expresso.pt/opiniao/2022-02-21-quem-tem-medo-dos-liberais-
+Marques Mendes sobre o novo Governo: “Acredito que vai ter mais mudanças” do que se esperava
+http://expresso.pt/politica/2022-02-20-marques-mendes-sobre-o-novo-governo-acredito-que-vai-ter-mais-mudancas-do-que-se-esperava
+Nuno Melo quer tornar o CDS num “partido útil”
+http://expresso.pt/politica/2022-02-20-nuno-melo-quer-tornar-o-cds-num-partido-util
+Vídeo. Minuto Consumidor: como perceber a fatura de água e saneamento?
+http://expresso.pt/economia/2022-02-20-video.-minuto-consumidor-como-perceber-a-fatura-de-agua-e-saneamento-
+Como era dia de jogo voltaram todos a Alvalade para lamber as feridas
+http://expresso.pt/expresso/2022-02-20-como-era-dia-de-jogo-voltaram-todos-a-alvalade-para-lamber-as-feridas
+Polícia canadiana recupera quase totalidade do controlo da cidade de Otava
+http://expresso.pt/internacional/2022-02-20-policia-canadiana-recupera-quase-totalidade-do-controlo-da-cidade-de-otava
+Conceição aposta em Fábio Cardoso, Evanilson e Taremi: veja aqui os 11 para o Moreirense-FC Porto
+http://expresso.pt/tribuna/2022-02-20-conceicao-aposta-em-fabio-cardoso-evanilson-e-taremi-veja-aqui-os-11-para-o-moreirense-fc-porto
+Covid-19: mais de 83 mil crianças entre os 5 e os 11 anos têm vacinação completa
+http://expresso.pt/coronavirus/2022-02-20-covid-19-mais-de-83-mil-criancas-entre-os-5-e-os-11-anos-tem-vacinacao-completa
+Semanário. Fugir do Afeganistão para desesperar na Turquia: reportagem no bairro de Istambul que “mudou de nome” por receber tantos afegãos
+http://expresso.pt/internacional/2022-02-20-semanario.-fugir-do-afeganistao-para-desesperar-na-turquia-reportagem-no-bairro-de-istambul-que-mudou-de-nome-por-receber-tantos-afegaos
+Perguntas e respostas: tudo que precisa saber sobre os Suisse Secrets
+http://expresso.pt/expresso/2022-02-20-perguntas-e-respostas-tudo-que-precisa-saber-sobre-os-suisse-secrets
+Presidente da Turquia pede a Putin cessar-fogo na Ucrânia
+https://www.cmjornal.pt/multimedia/videos/detalhe/presidente-da-turquia-pede-a-putin-cessar-fogo-na-ucrania
+Rússia com controlo total da maior central nuclear da Europa
+https://www.cmjornal.pt/multimedia/videos/detalhe/russia-com-controlo-total-da-maior-central-nuclear-da-europa
+Governo ucraniano diz que Rússia disparou oito mísseis contra o aeroporto de Vinnytsia
+https://www.cmjornal.pt/multimedia/videos/detalhe/governo-ucraniano-diz-que-russia-disparou-oito-misseis-contra-o-aeroporto-de-vinnytsia
+Evacuação de Mariupol volta a falhar
+https://www.cmjornal.pt/multimedia/videos/detalhe/evacuacao-de-mariupol-volta-a-falhar
+Bebé de 18 meses morre em bombardeamento russo em Mariupol na Ucrânia
+https://www.cmjornal.pt/multimedia/videos/detalhe/bebe-de-18-meses-morre-em-bombardeamento-russo-em-mariupol-na-ucrania
+Rússia recruta combatentes sírios
+https://www.cmjornal.pt/multimedia/videos/detalhe/russia-recruta-combatentes-sirios
+"Vamos punir todos os que cometeram atrocidades na guerra": garante Zelensky
+https://www.cmjornal.pt/multimedia/videos/detalhe/vamos-punir-todos-os-que-cometeram-atrocidades-na-guerra-garante-zelensky
+Ataque russo em Irpin mata crianças em fuga ao horror da guerra
+https://www.cmjornal.pt/multimedia/videos/detalhe/ataque-russo-em-irpin-mata-criancas-em-fuga-ao-horror-da-guerra
+17 mortos e 5 606 infetados com Covid-19 nas últimas 24 horas em Portugal
+https://www.cmjornal.pt/sociedade/detalhe/17-mortos-e-5-606-infetados-com-covid-19-nas-ultimas-24-horas-em-portugal
+Portugal e Cabo Verde assinam novo plano de cooperação até 2026 e cinco acordos
+https://www.cmjornal.pt/politica/detalhe/portugal-e-cabo-verde-assinam-novo-plano-de-cooperacao-ate-2026-e-cinco-acordos
+Dois mil civis retirados da cidade ucraniana de Irpin
+https://www.cmjornal.pt/multimedia/videos/detalhe/dois-mil-civis-retirados-da-cidade-ucraniana-de-irpin
+ONU confirma mais de 400 mortes de civis na Ucrânia
+https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/onu-confirma-mais-de-400-mortes-de-civis-na-ucrania
+Portugal recebeu 1 670 pedidos de proteção temporária desde o início da invasão russa
+https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/portugal-recebeu-1-670-pedidos-de-protecao-temporaria-desde-o-inicio-da-invasao-russa
+Rússia assume parar imediatamente a guerra se a Ucrânia aceitar as condições
+https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/russia-assume-parar-imediatamente-a-guerra-se-a-ucrania-aceitar-as-condicoes
+Jornalista suíço atacado e roubado por tropas russas na Ucrânia
+https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/jornalista-suico-atacado-e-roubado-por-tropas-russas-na-ucrania
+Homem abusa sexualmente de criança durante três anos em Bragança
+https://www.cmjornal.pt/portugal/detalhe/homem-abusa-sexualmente-de-crianca-durante-tres-anos-em-braganca
+IC1 cortado em Ourique devido a acidente com dois camiões e dois ligeiros
+https://www.cmjornal.pt/portugal/detalhe/ic1-cortado-em-ourique-devido-a-acidente-com-dois-camioes-e-dois-ligeiros
+AHRESP afirma que quase metade das empresas de restauração tem quebras acima de 40% em janeiro
+https://www.cmjornal.pt/sociedade/detalhe/ahresp-afirma-que-quase-metade-das-empresas-de-restauracao-tem-quebras-acima-de-40-em-janeiro
+Portugal com primeiros jogos em casa na Liga das Nações no Estádio José Alvalade
+https://www.cmjornal.pt/desporto/detalhe/portugal-com-primeiros-jogos-em-casa-na-liga-das-nacoes-no-estadio-jose-alvalade
+GNR detém suspeito de tráfico de droga e apreende cocaína em Santiago do Cacém
+https://www.cmjornal.pt/portugal/detalhe/gnr-detem-suspeito-de-trafico-de-droga-e-apreende-cocaina-em-santiago-do-cacem
+Covid-19: mais 17 óbitos e mais 5.606 novos casos em Portugal
+https://maisfutebol.iol.pt/coronavirus/numeros-covid-19/covid-19-mais-17-obitos-e-mais-5-606-novos-casos-em-portugal
+Benfica lamenta 'chuva de tochas' no encontro em Portimão
+https://maisfutebol.iol.pt/portimonense/liga/benfica-lamenta-chuva-de-tochas-no-encontro-em-portimao
+«Disse a Luis Díaz que ia bater penálti à Panenka e ele não acreditou»
+https://maisfutebol.iol.pt/internacional/fabinho/disse-a-luis-diaz-que-ia-bater-penalti-a-panenka-e-ele-nao-acreditou
+Sporting prepara Manchester City com vários jovens da formação
+https://maisfutebol.iol.pt/liga-dos-campeoes/treino-sporting/sporting-prepara-manchester-city-com-varios-jovens-da-formacao
+Ucrânia: jornalistas detidos foram «salvos» por tatuagem de Maradona
+https://maisfutebol.iol.pt/incrivel/07-03-2022/ucrania-jornalistas-salvos-por-tatuagem-de-maradona
+VÍDEO: o cesto inacreditável de Ingram em cima da buzina na NBA
+https://maisfutebol.iol.pt/modalidades/basquetebol/video-o-cesto-inacreditavel-de-ingram-em-cima-da-buzina-na-nba
+Klopp: «Se não fosse o Liverpool, o City seria campeão em fevereiro»
+https://maisfutebol.iol.pt/premier-league/pep-guardiola/klopp-se-nao-fosse-o-liverpool-o-city-seria-campeao-em-fevereiro
+Klopp: «O calendário é horrível, temos de voltar às cinco substituições»
+https://maisfutebol.iol.pt/liverpool/premier-league/klopp-o-calendario-e-horrivel-temos-de-voltar-as-cinco-substituicoes
+Portugal na lista de países com «ações hostis» contra a Rússia
+https://maisfutebol.iol.pt/mf-mundo/ucrania/portugal-na-lista-de-paises-com-acoes-hostis-contra-a-russia
+VÍDEO: filho de Capdevila marca golaço mas ouve reprimenda do avô
+https://maisfutebol.iol.pt/espanha/joan-capdevilla/video-filho-de-ex-benfica-marca-golaco-mas-ouve-reprimenda-do-avo
+Ginasta russo investigado após exibir símbolo de apoio à guerra
+https://maisfutebol.iol.pt/internacional/modalidades/ginasta-russo-investigado-apos-exibir-simbolo-de-apoio-a-guerra
+Espanha: Osasuna renova com o treinador Jagoba Arrasate
+https://maisfutebol.iol.pt/internacional/renovacao/espanha-osasuna-renova-com-o-treinador-jagoba-arrasate
+Federação Internacional de Judo retira título honorário de Putin
+https://maisfutebol.iol.pt/vladimir-putin/arkady-rotenberg/federacao-internacional-de-judo-retira-titulo-honorario-de-putin
+Surf: Tatiana Weston-Webb e Griffin Colapinto campeões em Peniche
+https://maisfutebol.iol.pt/liga-mundial-de-surf/wsl/surf-tatiana-weston-webb-e-griffin-colapinto-campeoes-em-peniche
+«Manchester City brincou com o United, foram homens contra meninos»
+https://maisfutebol.iol.pt/premier-league/manchester-united/manchester-city-brincou-com-o-united-era-homens-contra-meninos
+FC Porto de Conceição a três jogos de igualar recorde histórico do Benfica
+https://maisfutebol.iol.pt/sergio-conceicao/john-mortimore/fc-porto-de-conceicao-a-tres-jogos-de-igualar-invencibilidade-do-benfica
+Sporting: Alvalade recebe dois jogos da seleção
+https://maisfutebol.iol.pt/jose-alvalade/liga-das-nacoes/sporting-alvalade-recebe-dois-jogos-da-selecao
+Henry: «Saúde mental era 'tabu' na minha época até no balneário»
+https://maisfutebol.iol.pt/thierry-henry/neymar/henry-saude-mental-era-tabu-na-minha-epoca-ate-no-balneario
+VÍDEO: Neemias com a melhor marca de pontos na vitória dos Stockton Kings
+https://maisfutebol.iol.pt/basquetebol/g-league/video-neemias-com-a-melhor-marca-de-pontos-na-vitoria-dos-stockton-kings
+Haas anuncia Fittipaldi nos testes e que está bem sem dinheiro russo
+https://maisfutebol.iol.pt/formula-1/gene-haas/haas-anuncia-fittipaldi-nos-testes-e-que-esta-bem-sem-dinheiro-russo
